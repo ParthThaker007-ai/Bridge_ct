@@ -1,0 +1,4151 @@
+[
+  {
+    "pair": [
+      {
+        "author_id": "A5047625687",
+        "name": "I. George Fantus"
+      },
+      {
+        "author_id": "A5056398401",
+        "name": "Lois Donovan"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.2912014954645761,
+    "prob_lo": 0.16879217529339774,
+    "prob_hi": 0.4372853180568791,
+    "rank": 1,
+    "communities": [
+      57,
+      20
+    ],
+    "top_feature_contributions": "adamic_adar=-4.56; common_neighbors=+4.09; resource_alloc=+3.78; degree_max=+3.68; degree_min=-2.19",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5047625687": [
+        {
+          "work_id": "W3085210273",
+          "year": 2020,
+          "title": "Metformin in women with type 2 diabetes in pregnancy (MiTy): a multicentre, international, randomised, placebo-controlled trial",
+          "url": "https://openalex.org/W3085210273",
+          "doi": "10.1016/s2213-8587(20)30310-7"
+        },
+        {
+          "work_id": "W2476878477",
+          "year": 2016,
+          "title": "Metformin in women with type 2 diabetes in pregnancy (MiTy): a multi-center randomized controlled trial",
+          "url": "https://openalex.org/W2476878477",
+          "doi": "10.1186/s12884-016-0954-4"
+        },
+        {
+          "work_id": "W2144146259",
+          "year": 2007,
+          "title": "Inhibition of the protein tyrosine phosphatase PTP1B: potential therapy for obesity, insulin resistance and type-2 diabetes mellitus",
+          "url": "https://openalex.org/W2144146259",
+          "doi": "10.1016/j.beem.2007.08.004"
+        }
+      ],
+      "A5056398401": [
+        {
+          "work_id": "W4281642690",
+          "year": 2022,
+          "title": "Determinants of Small for Gestational Age in Women With Type 2 Diabetes in Pregnancy: Who Should Receive Metformin?",
+          "url": "https://openalex.org/W4281642690",
+          "doi": "10.2337/dc22-0013"
+        },
+        {
+          "work_id": "W3196338801",
+          "year": 2021,
+          "title": "Metformin in Pregnancy for Women with Type 2 Diabetes: a Review",
+          "url": "https://openalex.org/W3196338801",
+          "doi": "10.1007/s11892-021-01409-0"
+        },
+        {
+          "work_id": "W3085210273",
+          "year": 2020,
+          "title": "Metformin in women with type 2 diabetes in pregnancy (MiTy): a multicentre, international, randomised, placebo-controlled trial",
+          "url": "https://openalex.org/W3085210273",
+          "doi": "10.1016/s2213-8587(20)30310-7"
+        },
+        {
+          "work_id": "W2184469200",
+          "year": 2015,
+          "title": "Behavioral Programs for Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W2184469200",
+          "doi": "10.7326/m15-1400"
+        },
+        {
+          "work_id": "W2223987685",
+          "year": 2015,
+          "title": "Effectiveness Across Outcomes for Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W2223987685",
+          "doi": NaN
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management",
+      "Gestational Diabetes Research and Management",
+      "Pregnancy and Medication Impact"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5022691183",
+        "name": "Johanna Sanchez"
+      },
+      {
+        "author_id": "A5026888938",
+        "name": "Elizabeth V Asztalos"
+      },
+      {
+        "author_id": "A5031195718",
+        "name": "Denice S. Feig"
+      },
+      {
+        "author_id": "A5050932952",
+        "name": "GEORGE A. TOMLINSON"
+      },
+      {
+        "author_id": "A5084468526",
+        "name": "Kellie E. Murphy"
+      },
+      {
+        "author_id": "A5090437675",
+        "name": "Bernard Zinman"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01353391",
+        "work_id": "W3085210273",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/32946820/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01353391",
+        "work_id": "W2476878477",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/27435163/",
+        "registration_year": 2011,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5005312014",
+        "name": "Alain Gerald Bertoni"
+      },
+      {
+        "author_id": "A5055511139",
+        "name": "Solomon K. Musani"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.2249409798234703,
+    "prob_lo": 0.15061856867683837,
+    "prob_hi": 0.312420829373612,
+    "rank": 2,
+    "communities": [
+      5,
+      46
+    ],
+    "top_feature_contributions": "pref_attach=+15.34; degree_max=-10.01; adamic_adar=-6.86; common_neighbors=+6.19; degree_min=-5.86",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5005312014": [
+        {
+          "work_id": "W4225647691",
+          "year": 2022,
+          "title": "Determinants of Metabolic Syndrome and Type 2 Diabetes in the Absence of Obesity: The Jackson Heart Study",
+          "url": "https://openalex.org/W4225647691",
+          "doi": "10.1210/jendso/bvac059"
+        },
+        {
+          "work_id": "W4207076294",
+          "year": 2022,
+          "title": "Monocyte miRNAs Are Associated With Type 2 Diabetes",
+          "url": "https://openalex.org/W4207076294",
+          "doi": "10.2337/db21-0704"
+        },
+        {
+          "work_id": "W4280552086",
+          "year": 2022,
+          "title": "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation",
+          "url": "https://openalex.org/W4280552086",
+          "doi": "10.1038/s41588-022-01058-3"
+        },
+        {
+          "work_id": "W4206248015",
+          "year": 2022,
+          "title": "Neighborhood greenspace and risk of type 2 diabetes in a prospective cohort: the Multi-Ethnic Study of Atherosclerosis",
+          "url": "https://openalex.org/W4206248015",
+          "doi": "10.1186/s12940-021-00824-w"
+        },
+        {
+          "work_id": "W4210430414",
+          "year": 2022,
+          "title": "Variability of adiposity indices and incident heart failure among adults with type 2 diabetes",
+          "url": "https://openalex.org/W4210430414",
+          "doi": "10.1186/s12933-021-01440-1"
+        }
+      ],
+      "A5055511139": [
+        {
+          "work_id": "W3137796785",
+          "year": 2021,
+          "title": "Metabolic Dyslipidemia and Cardiovascular Outcomes in Type 2 Diabetes Mellitus: Findings From the Look AHEAD Study",
+          "url": "https://openalex.org/W3137796785",
+          "doi": "10.1161/jaha.120.016947"
+        },
+        {
+          "work_id": "W3022341458",
+          "year": 2020,
+          "title": "Smoking-by-genotype interaction in type 2 diabetes risk and fasting glucose",
+          "url": "https://openalex.org/W3022341458",
+          "doi": "10.1371/journal.pone.0230815"
+        },
+        {
+          "work_id": "W2775065465",
+          "year": 2017,
+          "title": "Genome-wide association study of coronary artery calcified atherosclerotic plaque in African Americans with type 2 diabetes",
+          "url": "https://openalex.org/W2775065465",
+          "doi": "10.1186/s12863-017-0572-9"
+        },
+        {
+          "work_id": "W2107222217",
+          "year": 2012,
+          "title": "Large-Scale Gene-Centric Meta-Analysis across 39 Studies Identifies Type 2 Diabetes Loci",
+          "url": "https://openalex.org/W2107222217",
+          "doi": "10.1016/j.ajhg.2011.12.022"
+        },
+        {
+          "work_id": "W2113306639",
+          "year": 2012,
+          "title": "Novel Loci for Adiponectin Levels and Their Influence on Type 2 Diabetes and Metabolic Traits: A Multi-Ethnic Meta-Analysis of 45,891 Individuals",
+          "url": "https://openalex.org/W2113306639",
+          "doi": "10.1371/journal.pgen.1002607"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Adipokines, Inflammation, and Metabolic Diseases",
+      "Diabetes and associated disorders",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Genetic Associations and Epidemiology",
+      "Genetic Mapping and Diversity in Plants and Animals"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5005915006",
+        "name": "J. Jeffrey Carr"
+      },
+      {
+        "author_id": "A5008110525",
+        "name": "Jianzhao Xu"
+      },
+      {
+        "author_id": "A5022459015",
+        "name": "Arnaud D. Kazé"
+      },
+      {
+        "author_id": "A5022738034",
+        "name": "Adolfo Correa"
+      },
+      {
+        "author_id": "A5029175176",
+        "name": "Justin Basile Echouffo-Tcheugui"
+      },
+      {
+        "author_id": "A5030650722",
+        "name": "Carl D. Langefeld"
+      },
+      {
+        "author_id": "A5059128990",
+        "name": "Jasmin Divers"
+      },
+      {
+        "author_id": "A5059764563",
+        "name": "Donald W. Bowden"
+      },
+      {
+        "author_id": "A5064667855",
+        "name": "Lingyi Lu"
+      },
+      {
+        "author_id": "A5071033886",
+        "name": "John S. Parks"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5045816461",
+        "name": "Željko Reiner"
+      },
+      {
+        "author_id": "A5064495299",
+        "name": "Stephen Lawrence Atkin"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.18455454854752318,
+    "prob_lo": 0.09713237553630397,
+    "prob_hi": 0.299393434132823,
+    "rank": 3,
+    "communities": [
+      16,
+      29
+    ],
+    "top_feature_contributions": "pref_attach=+14.76; degree_min=-11.03; resource_alloc=+5.73; adamic_adar=-5.19; degree_max=-4.17",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5045816461": [
+        {
+          "work_id": "W3136667809",
+          "year": 2021,
+          "title": "Relation of Lipoprotein(a) Levels to Incident Type 2 Diabetes and Modification by Alirocumab Treatment",
+          "url": "https://openalex.org/W3136667809",
+          "doi": "10.2337/dc20-2842"
+        },
+        {
+          "work_id": "W3030014919",
+          "year": 2020,
+          "title": "The effects of combined magnesium and zinc supplementation on metabolic status in patients with type 2 diabetes mellitus and coronary heart disease",
+          "url": "https://openalex.org/W3030014919",
+          "doi": "10.1186/s12944-020-01298-4"
+        },
+        {
+          "work_id": "W2968717129",
+          "year": 2019,
+          "title": "The effects of resveratrol on metabolic status in patients with type 2 diabetes mellitus and coronary heart disease",
+          "url": "https://openalex.org/W2968717129",
+          "doi": "10.1039/c9fo01075k"
+        },
+        {
+          "work_id": "W2620079766",
+          "year": 2017,
+          "title": "Curcuminoids modify lipid profile in type 2 diabetes mellitus: A randomized controlled trial",
+          "url": "https://openalex.org/W2620079766",
+          "doi": "10.1016/j.ctim.2017.05.006"
+        },
+        {
+          "work_id": "W2139362648",
+          "year": 2013,
+          "title": "Association Between Plasma Triglycerides and High-Density Lipoprotein Cholesterol and Microvascular Kidney Disease and Retinopathy in Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W2139362648",
+          "doi": "10.1161/circulationaha.113.002529"
+        }
+      ],
+      "A5064495299": [
+        {
+          "work_id": "W4293206721",
+          "year": 2022,
+          "title": "Effect of Date Fruit Consumption on the Glycemic Control of Patients with Type 2 Diabetes: A Randomized Clinical Trial",
+          "url": "https://openalex.org/W4293206721",
+          "doi": "10.3390/nu14173491"
+        },
+        {
+          "work_id": "W4290730678",
+          "year": 2022,
+          "title": "MiRNA and associated inflammatory changes from baseline to hypoglycemia in type 2 diabetes",
+          "url": "https://openalex.org/W4290730678",
+          "doi": "10.3389/fendo.2022.917041"
+        },
+        {
+          "work_id": "W4310036777",
+          "year": 2022,
+          "title": "MicroRNA Changes Up to 24 h following Induced Hypoglycemia in Type 2 Diabetes",
+          "url": "https://openalex.org/W4310036777",
+          "doi": "10.3390/ijms232314696"
+        },
+        {
+          "work_id": "W3141130545",
+          "year": 2021,
+          "title": "Glucose excursions in type 2 diabetes modulate amyloid-related proteins associated with dementia",
+          "url": "https://openalex.org/W3141130545",
+          "doi": "10.1186/s12967-021-02797-3"
+        },
+        {
+          "work_id": "W3215288605",
+          "year": 2021,
+          "title": "Hypoglycemia-induced changes in complement pathways in type 2 diabetes",
+          "url": "https://openalex.org/W3215288605",
+          "doi": "10.1016/j.athplu.2021.11.002"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Natural Antidiabetic Agents Studies"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5023108791",
+        "name": "Yunes Panahi"
+      },
+      {
+        "author_id": "A5029357778",
+        "name": "Ebrahim Sahebi"
+      },
+      {
+        "author_id": "A5032331674",
+        "name": "Soha Namazi"
+      },
+      {
+        "author_id": "A5032412684",
+        "name": "Muhammed A. Majeed"
+      },
+      {
+        "author_id": "A5036163332",
+        "name": "Amirhossein Sahebkar"
+      },
+      {
+        "author_id": "A5072994060",
+        "name": "Nahid Khalili"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT03102801",
+        "work_id": "W3215288605",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36643727/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03102801",
+        "work_id": "W4290730678",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36017315/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03102801",
+        "work_id": "W4310036777",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36499023/",
+        "registration_year": 2016,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5024577116",
+        "name": "Hertzel C. Gerstein"
+      },
+      {
+        "author_id": "A5052889466",
+        "name": "Simon R. Heller"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.16806252473140912,
+    "prob_lo": 0.11471879627504239,
+    "prob_hi": 0.23169109608500044,
+    "rank": 4,
+    "communities": [
+      0,
+      9
+    ],
+    "top_feature_contributions": "pref_attach=+28.10; degree_min=-15.63; degree_max=-13.96; common_neighbors=+5.63; adamic_adar=-5.33",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5024577116": [
+        {
+          "work_id": "W4293073925",
+          "year": 2022,
+          "title": "190-LB: Vaspin—A Novel Predictor of Type 2 Diabetes Risk",
+          "url": "https://openalex.org/W4293073925",
+          "doi": "10.2337/db22-190-lb"
+        },
+        {
+          "work_id": "W4206078279",
+          "year": 2022,
+          "title": "Advanced Glycation End Products Predict Loss of Renal Function and High-Risk Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4206078279",
+          "doi": "10.2337/dc21-2196"
+        },
+        {
+          "work_id": "W4223509630",
+          "year": 2022,
+          "title": "Identification of genetic effects underlying type 2 diabetes in South Asian and European populations",
+          "url": "https://openalex.org/W4223509630",
+          "doi": "10.1038/s42003-022-03248-5"
+        },
+        {
+          "work_id": "W4308927172",
+          "year": 2022,
+          "title": "Identifying Blood Biomarkers for Type 2 Diabetes Subtyping: A Report From the ORIGIN Trial",
+          "url": "https://openalex.org/W4308927172",
+          "doi": "10.1016/j.jcjd.2022.09.013"
+        },
+        {
+          "work_id": "W3165578170",
+          "year": 2021,
+          "title": "Adolescent Thyroid Disorders and Risk for Type 2 Diabetes in Young Adulthood",
+          "url": "https://openalex.org/W3165578170",
+          "doi": "10.1210/clinem/dgab382"
+        }
+      ],
+      "A5052889466": [
+        {
+          "work_id": "W4292458086",
+          "year": 2022,
+          "title": "Breaking Barriers With Basal Insulin Biosimilars in Type 2 Diabetes",
+          "url": "https://openalex.org/W4292458086",
+          "doi": "10.2337/cd22-0016"
+        },
+        {
+          "work_id": "W3034287678",
+          "year": 2020,
+          "title": "Hypoglycemia in patient with type 2 diabetes treated with insulin: it can happen",
+          "url": "https://openalex.org/W3034287678",
+          "doi": "10.1136/bmjdrc-2020-001194"
+        },
+        {
+          "work_id": "W3016181541",
+          "year": 2020,
+          "title": "Psychological interventions to improve glycemic control in adults with type 2 diabetes: a systematic review and meta-analysis",
+          "url": "https://openalex.org/W3016181541",
+          "doi": "10.1136/bmjdrc-2019-001150"
+        },
+        {
+          "work_id": "W3035768592",
+          "year": 2020,
+          "title": "Psychological interventions to improve self-management of type 1 and type 2 diabetes: a systematic review",
+          "url": "https://openalex.org/W3035768592",
+          "doi": "10.3310/hta24280"
+        },
+        {
+          "work_id": "W3014758643",
+          "year": 2020,
+          "title": "Risk of severe hypoglycaemia and its impact in type 2 diabetes in DEVOTE",
+          "url": "https://openalex.org/W3014758643",
+          "doi": "10.1111/dom.14049"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Research",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5006628692",
+        "name": "William C. Cushman"
+      },
+      {
+        "author_id": "A5026602252",
+        "name": "Christopher Paul Cannon"
+      },
+      {
+        "author_id": "A5034096266",
+        "name": "Richard M. Bergenstal"
+      },
+      {
+        "author_id": "A5037890696",
+        "name": "Mark Woodward"
+      },
+      {
+        "author_id": "A5040182038",
+        "name": "John B. Buse"
+      },
+      {
+        "author_id": "A5052297925",
+        "name": "Florence Travert"
+      },
+      {
+        "author_id": "A5055394217",
+        "name": "John Philip Chalmers"
+      },
+      {
+        "author_id": "A5059098934",
+        "name": "Richard E. Pratley"
+      },
+      {
+        "author_id": "A5075162144",
+        "name": "Bruce Charles Neal"
+      },
+      {
+        "author_id": "A5084593004",
+        "name": "Melanie Jane Davies"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01959529",
+        "work_id": "W3014758643",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/32250536/",
+        "registration_year": 2013,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5024577116",
+        "name": "Hertzel C. Gerstein"
+      },
+      {
+        "author_id": "A5050076657",
+        "name": "Janet B. McGill"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.13677138552797397,
+    "prob_lo": 0.09545770529197006,
+    "prob_hi": 0.18605757145990134,
+    "rank": 5,
+    "communities": [
+      0,
+      9
+    ],
+    "top_feature_contributions": "pref_attach=+29.12; degree_min=-16.73; degree_max=-13.96; common_neighbors=+5.29; adamic_adar=-5.02",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5024577116": [
+        {
+          "work_id": "W4293073925",
+          "year": 2022,
+          "title": "190-LB: Vaspin—A Novel Predictor of Type 2 Diabetes Risk",
+          "url": "https://openalex.org/W4293073925",
+          "doi": "10.2337/db22-190-lb"
+        },
+        {
+          "work_id": "W4206078279",
+          "year": 2022,
+          "title": "Advanced Glycation End Products Predict Loss of Renal Function and High-Risk Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4206078279",
+          "doi": "10.2337/dc21-2196"
+        },
+        {
+          "work_id": "W4223509630",
+          "year": 2022,
+          "title": "Identification of genetic effects underlying type 2 diabetes in South Asian and European populations",
+          "url": "https://openalex.org/W4223509630",
+          "doi": "10.1038/s42003-022-03248-5"
+        },
+        {
+          "work_id": "W4308927172",
+          "year": 2022,
+          "title": "Identifying Blood Biomarkers for Type 2 Diabetes Subtyping: A Report From the ORIGIN Trial",
+          "url": "https://openalex.org/W4308927172",
+          "doi": "10.1016/j.jcjd.2022.09.013"
+        },
+        {
+          "work_id": "W3165578170",
+          "year": 2021,
+          "title": "Adolescent Thyroid Disorders and Risk for Type 2 Diabetes in Young Adulthood",
+          "url": "https://openalex.org/W3165578170",
+          "doi": "10.1210/clinem/dgab382"
+        }
+      ],
+      "A5050076657": [
+        {
+          "work_id": "W4306901703",
+          "year": 2022,
+          "title": "Clinical implications and guidelines for CKD in type 2 diabetes",
+          "url": "https://openalex.org/W4306901703",
+          "doi": "10.1093/ndt/gfac285"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4292063341",
+          "year": 2022,
+          "title": "Finerenone in Patients With Chronic Kidney Disease and Type 2 Diabetes by Sodium–Glucose Cotransporter 2 Inhibitor Treatment: The FIDELITY Analysis",
+          "url": "https://openalex.org/W4292063341",
+          "doi": "10.2337/dc22-0294"
+        },
+        {
+          "work_id": "W4283835108",
+          "year": 2022,
+          "title": "Making an impact on kidney disease in people with type 2 diabetes: the importance of screening for albuminuria",
+          "url": "https://openalex.org/W4283835108",
+          "doi": "10.1136/bmjdrc-2022-002806"
+        },
+        {
+          "work_id": "W3177081741",
+          "year": 2021,
+          "title": "Comparative Effectiveness of Sodium-Glucose Cotransporter 2 Inhibitors vs Sulfonylureas in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W3177081741",
+          "doi": "10.1001/jamainternmed.2021.2488"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Acute Kidney Injury Research",
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Management and Research"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5006293947",
+        "name": "Joshua I. Barzilay"
+      },
+      {
+        "author_id": "A5010456790",
+        "name": "Brian Lee Claggett"
+      },
+      {
+        "author_id": "A5017731236",
+        "name": "Jennifer B. Green"
+      },
+      {
+        "author_id": "A5025056096",
+        "name": "Eldrin Foster Lewis"
+      },
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5031560506",
+        "name": "Marc Alan Pfeffer"
+      },
+      {
+        "author_id": "A5034096266",
+        "name": "Richard M. Bergenstal"
+      },
+      {
+        "author_id": "A5034671525",
+        "name": "Vivian Andrew Fonseca"
+      },
+      {
+        "author_id": "A5043842967",
+        "name": "Johannes F.E. Mann"
+      },
+      {
+        "author_id": "A5054830306",
+        "name": "Scott David Solomon"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5070855397",
+        "name": "Francesco Cosentino"
+      },
+      {
+        "author_id": "A5107930477",
+        "name": "Jean‐Claude Tardif"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.1348063946589946,
+    "prob_lo": 0.0902045479860918,
+    "prob_hi": 0.1890723052203057,
+    "rank": 6,
+    "communities": [
+      0,
+      26
+    ],
+    "top_feature_contributions": "pref_attach=+17.36; degree_min=-11.33; degree_max=-6.64; adamic_adar=-5.36; common_neighbors=+5.29",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5070855397": [
+        {
+          "work_id": "W4281295175",
+          "year": 2022,
+          "title": "Mediators of ertugliflozin effects on heart failure and kidney outcomes among patients with type 2 diabetes mellitus",
+          "url": "https://openalex.org/W4281295175",
+          "doi": "10.1111/dom.14769"
+        },
+        {
+          "work_id": "W4303475943",
+          "year": 2022,
+          "title": "SGLT2 Inhibitors in Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W4303475943",
+          "doi": "10.1016/j.hfc.2022.03.009"
+        },
+        {
+          "work_id": "W3135510359",
+          "year": 2021,
+          "title": "Effects of ertugliflozin on kidney composite outcomes, renal function and albuminuria in patients with type 2 diabetes mellitus: an analysis from the randomised VERTIS CV trial",
+          "url": "https://openalex.org/W3135510359",
+          "doi": "10.1007/s00125-021-05407-5"
+        },
+        {
+          "work_id": "W3208377810",
+          "year": 2021,
+          "title": "Heart failure in type 2 diabetes: current perspectives on screening, diagnosis and management",
+          "url": "https://openalex.org/W3208377810",
+          "doi": "10.1186/s12933-021-01408-1"
+        },
+        {
+          "work_id": "W3092379111",
+          "year": 2020,
+          "title": "Association of SGLT2 Inhibitors With Cardiovascular and Kidney Outcomes in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W3092379111",
+          "doi": "10.1001/jamacardio.2020.4511"
+        }
+      ],
+      "A5107930477": [
+        {
+          "work_id": "W3092552171",
+          "year": 2020,
+          "title": "Blood pressure and mortality in patients with type 2 diabetes and a recent coronary event in the ELIXA trial",
+          "url": "https://openalex.org/W3092552171",
+          "doi": "10.1186/s12933-020-01150-0"
+        },
+        {
+          "work_id": "W2808128170",
+          "year": 2018,
+          "title": "Adiponectin, Free Fatty Acids, and Cardiovascular Outcomes in Patients With Type 2 Diabetes and Acute Coronary Syndrome",
+          "url": "https://openalex.org/W2808128170",
+          "doi": "10.2337/dc18-0158"
+        },
+        {
+          "work_id": "W2531064413",
+          "year": 2016,
+          "title": "Arterial Effects of Canakinumab in Patients With Atherosclerosis and Type 2 Diabetes or Glucose Intolerance",
+          "url": "https://openalex.org/W2531064413",
+          "doi": "10.1016/j.jacc.2016.07.768"
+        },
+        {
+          "work_id": "W2282578582",
+          "year": 2015,
+          "title": "Lixisenatide in Patients with Type 2 Diabetes and Acute Coronary Syndrome",
+          "url": "https://openalex.org/W2282578582",
+          "doi": "10.1056/nejmoa1509225"
+        },
+        {
+          "work_id": "W2095409509",
+          "year": 2014,
+          "title": "Effect of Aleglitazar on Cardiovascular Outcomes After Acute Coronary Syndrome in Patients With Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W2095409509",
+          "doi": "10.1001/jama.2014.3321"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Treatment and Management",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5001994412",
+        "name": "Abraham Michael Lincoff"
+      },
+      {
+        "author_id": "A5006225955",
+        "name": "Anna Nozza"
+      },
+      {
+        "author_id": "A5007679161",
+        "name": "Diederick E. Grobbee"
+      },
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5040182038",
+        "name": "John B. Buse"
+      },
+      {
+        "author_id": "A5041670111",
+        "name": "Lars Rydén"
+      },
+      {
+        "author_id": "A5065063579",
+        "name": "Gregory G. Schwartz"
+      },
+      {
+        "author_id": "A5075336180",
+        "name": "Ilse C. Schrieks"
+      },
+      {
+        "author_id": "A5088186128",
+        "name": "Aldo Pietro Maggioni"
+      },
+      {
+        "author_id": "A5103810166",
+        "name": "Klas Malmberg"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01147250",
+        "work_id": "W2282578582",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/26630143/",
+        "registration_year": 2010,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT00995930",
+        "work_id": "W2531064413",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/27737744/",
+        "registration_year": 2009,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01042769",
+        "work_id": "W2095409509",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/24682069/",
+        "registration_year": 2010,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01986881",
+        "work_id": "W4281295175",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35603908/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01042769",
+        "work_id": "W2808128170",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/29903845/",
+        "registration_year": 2010,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01986881",
+        "work_id": "W3135510359",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33665685/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01147250",
+        "work_id": "W3092552171",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33046070/",
+        "registration_year": 2010,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5073517018",
+        "name": "Itamar Raz"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.13370462753452805,
+    "prob_lo": 0.08493950058313912,
+    "prob_hi": 0.19444780146232352,
+    "rank": 7,
+    "communities": [
+      9,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+28.23; degree_min=-19.10; degree_max=-10.65; adamic_adar=-7.38; common_neighbors=+6.92",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5027213857": [
+        {
+          "work_id": "W4223645541",
+          "year": 2022,
+          "title": "Clinical cardiovascular phenotypes and the pattern of future events in patients with type 2 diabetes",
+          "url": "https://openalex.org/W4223645541",
+          "doi": "10.1007/s00392-022-02016-z"
+        },
+        {
+          "work_id": "W3195404919",
+          "year": 2021,
+          "title": "Cardiovascular, mortality, and kidney outcomes with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic review and meta-analysis of randomised trials",
+          "url": "https://openalex.org/W3195404919",
+          "doi": "10.1016/s2213-8587(21)00203-5"
+        },
+        {
+          "work_id": "W3202330513",
+          "year": 2021,
+          "title": "Effect of dapagliflozin on urinary albumin excretion in patients with chronic kidney disease with and without type 2 diabetes: a prespecified analysis from the DAPA-CKD trial",
+          "url": "https://openalex.org/W3202330513",
+          "doi": "10.1016/s2213-8587(21)00243-6"
+        },
+        {
+          "work_id": "W3092552171",
+          "year": 2020,
+          "title": "Blood pressure and mortality in patients with type 2 diabetes and a recent coronary event in the ELIXA trial",
+          "url": "https://openalex.org/W3092552171",
+          "doi": "10.1186/s12933-020-01150-0"
+        },
+        {
+          "work_id": "W3115855235",
+          "year": 2020,
+          "title": "Dapagliflozin and the Incidence of Type 2 Diabetes in Patients With Heart Failure and Reduced Ejection Fraction: An Exploratory Analysis From DAPA-HF",
+          "url": "https://openalex.org/W3115855235",
+          "doi": "10.2337/dc20-1675"
+        }
+      ],
+      "A5073517018": [
+        {
+          "work_id": "W4220907151",
+          "year": 2022,
+          "title": "ASSESSMENT OF ATHEROTHROMBOTIC RISK IN PATIENTS WITH TYPE 2 DIABETES MELLITUS",
+          "url": "https://openalex.org/W4220907151",
+          "doi": "10.1016/s0735-1097(22)01953-2"
+        },
+        {
+          "work_id": "W4286001562",
+          "year": 2022,
+          "title": "Efficacy and Safety of Dapagliflozin According to Background Use of Cardiovascular Medications in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4286001562",
+          "doi": "10.1001/jamacardio.2022.2006"
+        },
+        {
+          "work_id": "W3165578170",
+          "year": 2021,
+          "title": "Adolescent Thyroid Disorders and Risk for Type 2 Diabetes in Young Adulthood",
+          "url": "https://openalex.org/W3165578170",
+          "doi": "10.1210/clinem/dgab382"
+        },
+        {
+          "work_id": "W3203821354",
+          "year": 2021,
+          "title": "Adolescent cognitive function and incident early-onset type 2 diabetes",
+          "url": "https://openalex.org/W3203821354",
+          "doi": "10.1016/j.eclinm.2021.101138"
+        },
+        {
+          "work_id": "W3118994355",
+          "year": 2021,
+          "title": "Changes in Albuminuria Predict Cardiovascular and Renal Outcomes in Type 2 Diabetes: A Post Hoc Analysis of the LEADER Trial",
+          "url": "https://openalex.org/W3118994355",
+          "doi": "10.2337/dc20-1622"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004666517",
+        "name": "Petr Jarolı́m"
+      },
+      {
+        "author_id": "A5005006476",
+        "name": "Silvio E. Inzucchi"
+      },
+      {
+        "author_id": "A5012551917",
+        "name": "Anna Maria Langkilde"
+      },
+      {
+        "author_id": "A5012676820",
+        "name": "Frederik Persson"
+      },
+      {
+        "author_id": "A5013408607",
+        "name": "Rafael Díaz"
+      },
+      {
+        "author_id": "A5016452405",
+        "name": "Tom Greene"
+      },
+      {
+        "author_id": "A5017731236",
+        "name": "Jennifer B. Green"
+      },
+      {
+        "author_id": "A5019711625",
+        "name": "Stefano Del Prato"
+      },
+      {
+        "author_id": "A5024577116",
+        "name": "Hertzel C. Gerstein"
+      },
+      {
+        "author_id": "A5030057930",
+        "name": "Marc Steven Sabatine"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01179048",
+        "work_id": "W3118994355",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33504496/",
+        "registration_year": 2010,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01730534",
+        "work_id": "W4286001562",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35857296/",
+        "registration_year": 2012,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01147250",
+        "work_id": "W3092552171",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33046070/",
+        "registration_year": 2010,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5053232051",
+        "name": "Marc Evans"
+      },
+      {
+        "author_id": "A5083222970",
+        "name": "Kamlesh K. Khunti"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.1330919365172263,
+    "prob_lo": 0.09304454663009663,
+    "prob_hi": 0.18088319783874476,
+    "rank": 8,
+    "communities": [
+      21,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+26.55; degree_max=-14.92; degree_min=-12.98; adamic_adar=-5.79; common_neighbors=+5.63",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5053232051": [
+        {
+          "work_id": "W3212600493",
+          "year": 2021,
+          "title": "Adherence to and persistence with antidiabetic medications and associations with clinical and economic outcomes in people with type 2 diabetes mellitus: A systematic literature review",
+          "url": "https://openalex.org/W3212600493",
+          "doi": "10.1111/dom.14603"
+        },
+        {
+          "work_id": "W3158640066",
+          "year": 2021,
+          "title": "One Hundred Years of Insulin: Value Beyond Price in Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W3158640066",
+          "doi": "10.1007/s13300-021-01061-7"
+        },
+        {
+          "work_id": "W3202168388",
+          "year": 2021,
+          "title": "The Value of Insulin Degludec in Frail Older Adults with Type 2 Diabetes",
+          "url": "https://openalex.org/W3202168388",
+          "doi": "10.1007/s13300-021-01162-3"
+        },
+        {
+          "work_id": "W3001438287",
+          "year": 2020,
+          "title": "Clinical Considerations When Initiating and Titrating Insulin Degludec/Liraglutide (IDegLira) in People with Type 2 Diabetes",
+          "url": "https://openalex.org/W3001438287",
+          "doi": "10.1007/s40265-019-01245-3"
+        },
+        {
+          "work_id": "W3090059013",
+          "year": 2020,
+          "title": "SGLT2 Inhibitors: Slowing of Chronic Kidney Disease Progression in Type 2 Diabetes",
+          "url": "https://openalex.org/W3090059013",
+          "doi": "10.1007/s13300-020-00930-x"
+        }
+      ],
+      "A5083222970": [
+        {
+          "work_id": "W4311182596",
+          "year": 2022,
+          "title": "8. Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes: Standards of Care in Diabetes—2023",
+          "url": "https://openalex.org/W4311182596",
+          "doi": "10.2337/dc23-s008"
+        },
+        {
+          "work_id": "W4220900190",
+          "year": 2022,
+          "title": "Age at diagnosis of type 2 diabetes and cardiovascular risk factor profile: A pooled analysis",
+          "url": "https://openalex.org/W4220900190",
+          "doi": "10.4239/wjd.v13.i3.260"
+        },
+        {
+          "work_id": "W4288447618",
+          "year": 2022,
+          "title": "Developing services to support the delivery of care to people with early‐onset type 2 diabetes",
+          "url": "https://openalex.org/W4288447618",
+          "doi": "10.1111/dme.14927"
+        },
+        {
+          "work_id": "W4220970001",
+          "year": 2022,
+          "title": "Expert Panel Guidance and Narrative Review of Treatment Simplification of Complex Insulin Regimens to Improve Outcomes in Type 2 Diabetes",
+          "url": "https://openalex.org/W4220970001",
+          "doi": "10.1007/s13300-022-01222-2"
+        },
+        {
+          "work_id": "W4224443498",
+          "year": 2022,
+          "title": "Global use of SGLT2 inhibitors and GLP-1 receptor agonists in type 2 diabetes. Results from DISCOVER",
+          "url": "https://openalex.org/W4224443498",
+          "doi": "10.1186/s12902-022-01026-2"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Education",
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004120950",
+        "name": "Tina Vilsbøll"
+      },
+      {
+        "author_id": "A5010140902",
+        "name": "Guy E.H.M. Rutten"
+      },
+      {
+        "author_id": "A5022459640",
+        "name": "Guillaume Charpentier"
+      },
+      {
+        "author_id": "A5023295361",
+        "name": "Anthony H Barnett"
+      },
+      {
+        "author_id": "A5038040018",
+        "name": "Stewart B. Harris"
+      },
+      {
+        "author_id": "A5048950821",
+        "name": "Wasim Hanif"
+      },
+      {
+        "author_id": "A5069526214",
+        "name": "Mark F. Peyrot"
+      },
+      {
+        "author_id": "A5084241436",
+        "name": "Michael D Feher"
+      },
+      {
+        "author_id": "A5086169556",
+        "name": "William H. Polonsky"
+      },
+      {
+        "author_id": "A5090192766",
+        "name": "Jiten P Vora"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5013839934",
+        "name": "Andreas L. Birkenfeld"
+      },
+      {
+        "author_id": "A5085592050",
+        "name": "Peter R Rossing"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.13135406327885069,
+    "prob_lo": 0.0831795564507859,
+    "prob_hi": 0.19149868463601444,
+    "rank": 9,
+    "communities": [
+      4,
+      9
+    ],
+    "top_feature_contributions": "pref_attach=+29.37; degree_min=-18.10; degree_max=-12.88; common_neighbors=+5.47; adamic_adar=-4.91",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5013839934": [
+        {
+          "work_id": "W4283162182",
+          "year": 2022,
+          "title": "Fat Distribution Patterns and Future Type 2 Diabetes",
+          "url": "https://openalex.org/W4283162182",
+          "doi": "10.2337/db22-0315"
+        },
+        {
+          "work_id": "W4292063341",
+          "year": 2022,
+          "title": "Finerenone in Patients With Chronic Kidney Disease and Type 2 Diabetes by Sodium–Glucose Cotransporter 2 Inhibitor Treatment: The FIDELITY Analysis",
+          "url": "https://openalex.org/W4292063341",
+          "doi": "10.2337/dc22-0294"
+        },
+        {
+          "work_id": "W4285589434",
+          "year": 2022,
+          "title": "Therapy of Type 2 Diabetes",
+          "url": "https://openalex.org/W4285589434",
+          "doi": "10.1055/a-1624-3449"
+        },
+        {
+          "work_id": "W7212328299",
+          "year": 2022,
+          "title": "Therapy of Type 2 Diabetes",
+          "url": "https://openalex.org/W7212328299",
+          "doi": NaN
+        },
+        {
+          "work_id": "W3213389536",
+          "year": 2021,
+          "title": "Elevated circulating follistatin associates with an increased risk of type 2 diabetes",
+          "url": "https://openalex.org/W3213389536",
+          "doi": "10.1038/s41467-021-26536-w"
+        }
+      ],
+      "A5085592050": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4306901703",
+          "year": 2022,
+          "title": "Clinical implications and guidelines for CKD in type 2 diabetes",
+          "url": "https://openalex.org/W4306901703",
+          "doi": "10.1093/ndt/gfac285"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004120950",
+        "name": "Tina Vilsbøll"
+      },
+      {
+        "author_id": "A5009402640",
+        "name": "Dina Mansour Aly"
+      },
+      {
+        "author_id": "A5016205185",
+        "name": "Emma Ahlqvist"
+      },
+      {
+        "author_id": "A5024645589",
+        "name": "Paul W. Franks"
+      },
+      {
+        "author_id": "A5053488036",
+        "name": "Geltrude Mingrone"
+      },
+      {
+        "author_id": "A5067359287",
+        "name": "Michael Albrecht Nauck"
+      },
+      {
+        "author_id": "A5074771810",
+        "name": "Leif Groop"
+      },
+      {
+        "author_id": "A5080463002",
+        "name": "Stephen Charles Bain"
+      },
+      {
+        "author_id": "A5080475619",
+        "name": "Ofri Mosenzon"
+      },
+      {
+        "author_id": "A5084593004",
+        "name": "Melanie Jane Davies"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5040981713",
+        "name": "Max Nieuwdorp"
+      },
+      {
+        "author_id": "A5085592050",
+        "name": "Peter R Rossing"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.12782640636077014,
+    "prob_lo": 0.0877973165744312,
+    "prob_hi": 0.1760609657518791,
+    "rank": 10,
+    "communities": [
+      14,
+      9
+    ],
+    "top_feature_contributions": "pref_attach=+25.38; degree_min=-13.76; degree_max=-12.88; common_neighbors=+4.88; adamic_adar=-4.72",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5040981713": [
+        {
+          "work_id": "W4211259843",
+          "year": 2022,
+          "title": "Effects of Dapagliflozin and Combination Therapy With Exenatide on Food-Cue Induced Brain Activation in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4211259843",
+          "doi": "10.1210/clinem/dgac043"
+        },
+        {
+          "work_id": "W4220823683",
+          "year": 2022,
+          "title": "SGLT2 Inhibition and Uric Acid Excretion in Patients with Type 2 Diabetes and Normal Kidney Function",
+          "url": "https://openalex.org/W4220823683",
+          "doi": "10.2215/cjn.11480821"
+        },
+        {
+          "work_id": "W4310068095",
+          "year": 2022,
+          "title": "Type 2 diabetes is associated with increased circulating levels of 3-hydroxydecanoate activating GPR84 and neutrophil migration",
+          "url": "https://openalex.org/W4310068095",
+          "doi": "10.1016/j.isci.2022.105683"
+        },
+        {
+          "work_id": "W3033213194",
+          "year": 2020,
+          "title": "Effects of dapagliflozin and gliclazide on the cardiorenal axis in people with type 2 diabetes",
+          "url": "https://openalex.org/W3033213194",
+          "doi": "10.1097/hjh.0000000000002480"
+        },
+        {
+          "work_id": "W3097882759",
+          "year": 2020,
+          "title": "Gut Microbiota as a Trigger for Metabolic Inflammation in Obesity and Type 2 Diabetes",
+          "url": "https://openalex.org/W3097882759",
+          "doi": "10.3389/fimmu.2020.571731"
+        }
+      ],
+      "A5085592050": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4306901703",
+          "year": 2022,
+          "title": "Clinical implications and guidelines for CKD in type 2 diabetes",
+          "url": "https://openalex.org/W4306901703",
+          "doi": "10.1093/ndt/gfac285"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5015404078",
+        "name": "Leen M. ‘t Hart"
+      },
+      {
+        "author_id": "A5031624913",
+        "name": "Hiddo J.L. Heerspink"
+      },
+      {
+        "author_id": "A5040944251",
+        "name": "Giel Nijpels"
+      },
+      {
+        "author_id": "A5062438369",
+        "name": "Jaap A. Joles"
+      },
+      {
+        "author_id": "A5067127165",
+        "name": "Daniël H. van Raalte"
+      },
+      {
+        "author_id": "A5067721247",
+        "name": "Lennart Tonneijck"
+      },
+      {
+        "author_id": "A5084278641",
+        "name": "Marcel H.A. Muskiet"
+      },
+      {
+        "author_id": "A5085734264",
+        "name": "Volker Vallon"
+      },
+      {
+        "author_id": "A5091895526",
+        "name": "Mark M. Smits"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02682563",
+        "work_id": "W3033213194",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/32516291/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02682563",
+        "work_id": "W4220823683",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35322793/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05210517",
+        "work_id": "W4220823683",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35322793/",
+        "registration_year": 2022,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03361098",
+        "work_id": "W4211259843",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35134184/",
+        "registration_year": 2017,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5004521406",
+        "name": "Bertrand Cariou"
+      },
+      {
+        "author_id": "A5019150153",
+        "name": "Paul C. Norwood"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.12289577022141558,
+    "prob_lo": 0.07403129249878278,
+    "prob_hi": 0.1854665172445393,
+    "rank": 11,
+    "communities": [
+      9,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+14.20; degree_min=-7.58; degree_max=-7.02; common_neighbors=+3.74; adamic_adar=-3.53",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5004521406": [
+        {
+          "work_id": "W4221043805",
+          "year": 2022,
+          "title": "Impact of Type 2 Diabetes on the Accuracy of Noninvasive Tests of Liver Fibrosis With Resulting Clinical Implications",
+          "url": "https://openalex.org/W4221043805",
+          "doi": "10.1016/j.cgh.2022.02.059"
+        },
+        {
+          "work_id": "W4293585519",
+          "year": 2022,
+          "title": "Plasma concentrations of apolipoproteins and incident cardiovascular diseases in patients with type 2 diabetes",
+          "url": "https://openalex.org/W4293585519",
+          "doi": "10.1016/j.atherosclerosis.2022.06.700"
+        },
+        {
+          "work_id": "W4205747139",
+          "year": 2022,
+          "title": "The metabolic triad of non‐alcoholic fatty liver disease, visceral adiposity and type 2 diabetes: Implications for treatment",
+          "url": "https://openalex.org/W4205747139",
+          "doi": "10.1111/dom.14651"
+        },
+        {
+          "work_id": "W3005065383",
+          "year": 2020,
+          "title": "Effect of alirocumab on individuals with type 2 diabetes, high triglycerides, and low high-density lipoprotein cholesterol",
+          "url": "https://openalex.org/W3005065383",
+          "doi": "10.1186/s12933-020-0991-1"
+        },
+        {
+          "work_id": "W3016741459",
+          "year": 2020,
+          "title": "Plasma Trimethylamine N-Oxide and Risk of Cardiovascular Events in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W3016741459",
+          "doi": "10.1210/clinem/dgaa188"
+        }
+      ],
+      "A5019150153": [
+        {
+          "work_id": "W4210940103",
+          "year": 2022,
+          "title": "Effect of Subcutaneous Tirzepatide vs Placebo Added to Titrated Insulin Glargine on Glycemic Control in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4210940103",
+          "doi": "10.1001/jama.2022.0078"
+        },
+        {
+          "work_id": "W2948370538",
+          "year": 2019,
+          "title": "Efficacy and safety of oral semaglutide in patients with type 2 diabetes and moderate renal impairment (PIONEER 5): a placebo-controlled, randomised, phase 3a trial",
+          "url": "https://openalex.org/W2948370538",
+          "doi": "10.1016/s2213-8587(19)30192-5"
+        },
+        {
+          "work_id": "W2974714926",
+          "year": 2019,
+          "title": "Efficacy, Safety, and Tolerability of Oral Semaglutide Versus Placebo Added to Insulin With or Without Metformin in Patients With Type 2 Diabetes: The PIONEER 8 Trial",
+          "url": "https://openalex.org/W2974714926",
+          "doi": "10.2337/dc19-0898"
+        },
+        {
+          "work_id": "W2801715295",
+          "year": 2018,
+          "title": "Semaglutide Added to Basal Insulin in Type 2 Diabetes (SUSTAIN 5): A Randomized, Controlled Trial",
+          "url": "https://openalex.org/W2801715295",
+          "doi": "10.1210/jc.2018-00070"
+        },
+        {
+          "work_id": "W2916155351",
+          "year": 2017,
+          "title": "Effect of Insulin Degludec vs Insulin Glargine U100 on Hypoglycemia in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W2916155351",
+          "doi": "10.1001/jama.2017.7117"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5001655356",
+        "name": "Ildiko Lingvay"
+      },
+      {
+        "author_id": "A5005982472",
+        "name": "LOUIS B. CHAYKIN"
+      },
+      {
+        "author_id": "A5007924361",
+        "name": "Nelun Wijayasinghe"
+      },
+      {
+        "author_id": "A5020174004",
+        "name": "Helena W. Rodbard"
+      },
+      {
+        "author_id": "A5037652425",
+        "name": "Yehuda Handelsman"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02305381",
+        "work_id": "W2801715295",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/29688502/",
+        "registration_year": 2014,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02030600",
+        "work_id": "W2916155351",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/28672317/",
+        "registration_year": 2014,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT04039503",
+        "work_id": "W4210940103",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35133415/",
+        "registration_year": 2019,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03021187",
+        "work_id": "W2974714926",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/31530667/",
+        "registration_year": 2017,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02827708",
+        "work_id": "W2948370538",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/31189517/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02642159",
+        "work_id": "W3005065383",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/32035487/",
+        "registration_year": 2015,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5016157925",
+        "name": "Rimesh Pal"
+      },
+      {
+        "author_id": "A5052140994",
+        "name": "Ruban Dhaliwal"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.12058790534269648,
+    "prob_lo": 0.07192227735174718,
+    "prob_hi": 0.1832359554774095,
+    "rank": 12,
+    "communities": [
+      12,
+      15
+    ],
+    "top_feature_contributions": "adamic_adar=-5.45; resource_alloc=+4.69; common_neighbors=+4.65; pref_attach=+3.51; degree_min=-3.43",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5016157925": [
+        {
+          "work_id": "W3202876333",
+          "year": 2021,
+          "title": "Can fingernail quality predict bone damage in Type 2 diabetes mellitus? a pilot study",
+          "url": "https://openalex.org/W3202876333",
+          "doi": "10.1371/journal.pone.0257955"
+        },
+        {
+          "work_id": "W4287424489",
+          "year": 2021,
+          "title": "Research on Type 2 Diabetes in India During 1982 to 2019",
+          "url": "https://openalex.org/W4287424489",
+          "doi": "10.4103/jod.jod_53_21"
+        },
+        {
+          "work_id": "W3092163065",
+          "year": 2020,
+          "title": "COVID-19 and Type 2 Diabetes Mellitus: HCQ may be the Holy Grail",
+          "url": "https://openalex.org/W3092163065",
+          "doi": "10.2174/1871526520666201013160803"
+        }
+      ],
+      "A5052140994": [
+        {
+          "work_id": "W3124983389",
+          "year": 2021,
+          "title": "Investigation of Mechanical, Material, and Compositional Determinants of Human Trabecular Bone Quality in Type 2 Diabetes",
+          "url": "https://openalex.org/W3124983389",
+          "doi": "10.1210/clinem/dgab027"
+        },
+        {
+          "work_id": "W3004388145",
+          "year": 2020,
+          "title": "Abaloparatide in Postmenopausal Women With Osteoporosis and Type 2 Diabetes: A Post Hoc Analysis of the ACTIVE Study",
+          "url": "https://openalex.org/W3004388145",
+          "doi": "10.1002/jbm4.10346"
+        },
+        {
+          "work_id": "W3215980635",
+          "year": 2020,
+          "title": "Greater Carboxy-Methyl-Lysine Is Associated With Increased Fracture Risk in Type 2 Diabetes",
+          "url": "https://openalex.org/W3215980635",
+          "doi": "10.1002/jbmr.4466"
+        },
+        {
+          "work_id": "W3034086512",
+          "year": 2020,
+          "title": "Longitudinal Changes in Cardiac Structure and Function From Adolescence to Young Adulthood in Participants With Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W3034086512",
+          "doi": "10.1161/circheartfailure.119.006685"
+        },
+        {
+          "work_id": "W2531729017",
+          "year": 2016,
+          "title": "Type 2 Diabetes and Aging: A Not so Sweet Scenario for Bone",
+          "url": "https://openalex.org/W2531729017",
+          "doi": "10.1055/s-0042-117719"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Bone Metabolism and Diseases",
+      "Bone health and osteoporosis research",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5002673886",
+        "name": "Sanjay Kumar Bhadada"
+      },
+      {
+        "author_id": "A5003723632",
+        "name": "Shailesh Karn"
+      },
+      {
+        "author_id": "A5005275298",
+        "name": "Praveer Sihota"
+      },
+      {
+        "author_id": "A5038561137",
+        "name": "Vijay G Goni"
+      },
+      {
+        "author_id": "A5067834603",
+        "name": "Ram Naresh Yadav"
+      },
+      {
+        "author_id": "A5068871270",
+        "name": "Deepak Neradi"
+      },
+      {
+        "author_id": "A5077079918",
+        "name": "Vishwajeet Mehandia"
+      },
+      {
+        "author_id": "A5100667584",
+        "name": "Navin Kumar"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5012514694",
+        "name": "George L. Bakris"
+      },
+      {
+        "author_id": "A5080414941",
+        "name": "Lawrence A. Leiter"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.11958236637977558,
+    "prob_lo": 0.06919203796895872,
+    "prob_hi": 0.1853473880441478,
+    "rank": 13,
+    "communities": [
+      9,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+30.81; degree_min=-18.38; degree_max=-14.16; adamic_adar=-7.71; common_neighbors=+7.09",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5012514694": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        },
+        {
+          "work_id": "W4306632750",
+          "year": 2022,
+          "title": "Finerenone efficacy in patients with chronic kidney disease, type 2 diabetes and atherosclerotic cardiovascular disease",
+          "url": "https://openalex.org/W4306632750",
+          "doi": "10.1093/ehjcvp/pvac054"
+        }
+      ],
+      "A5080414941": [
+        {
+          "work_id": "W4280556789",
+          "year": 2022,
+          "title": "Effects of Semaglutide on Stroke Subtypes in Type 2 Diabetes: Post Hoc Analysis of the Randomized SUSTAIN 6 and PIONEER 6",
+          "url": "https://openalex.org/W4280556789",
+          "doi": "10.1161/strokeaha.121.037775"
+        },
+        {
+          "work_id": "W4286001562",
+          "year": 2022,
+          "title": "Efficacy and Safety of Dapagliflozin According to Background Use of Cardiovascular Medications in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4286001562",
+          "doi": "10.1001/jamacardio.2022.2006"
+        },
+        {
+          "work_id": "W3176403805",
+          "year": 2021,
+          "title": "Effect of Sotagliflozin on Total Hospitalizations in Patients With Type 2 Diabetes and Worsening Heart Failure",
+          "url": "https://openalex.org/W3176403805",
+          "doi": "10.7326/m21-0651"
+        },
+        {
+          "work_id": "W3120992799",
+          "year": 2021,
+          "title": "Empagliflozin Reduces Myocardial Extracellular Volume in Patients With Type 2 Diabetes and Coronary Artery Disease",
+          "url": "https://openalex.org/W3120992799",
+          "doi": "10.1016/j.jcmg.2020.10.017"
+        },
+        {
+          "work_id": "W3176374233",
+          "year": 2021,
+          "title": "Erectile function in men with type 2 diabetes treated with dulaglutide: an exploratory analysis of the REWIND placebo-controlled randomised trial",
+          "url": "https://openalex.org/W3176374233",
+          "doi": "10.1016/s2213-8587(21)00115-7"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004521406",
+        "name": "Bertrand Cariou"
+      },
+      {
+        "author_id": "A5006628692",
+        "name": "William C. Cushman"
+      },
+      {
+        "author_id": "A5017731236",
+        "name": "Jennifer B. Green"
+      },
+      {
+        "author_id": "A5020254504",
+        "name": "Abhinav Sharma"
+      },
+      {
+        "author_id": "A5021638263",
+        "name": "Richard E. Gilbert"
+      },
+      {
+        "author_id": "A5026602252",
+        "name": "Christopher Paul Cannon"
+      },
+      {
+        "author_id": "A5026752543",
+        "name": "Ujjwala Vijapurkar"
+      },
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5031624913",
+        "name": "Hiddo J.L. Heerspink"
+      },
+      {
+        "author_id": "A5032297044",
+        "name": "Vincent C. Woo"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03521934",
+        "work_id": "W3176403805",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34152828/",
+        "registration_year": 2018,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02998970",
+        "work_id": "W3120992799",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33454272/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02545049",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01720446",
+        "work_id": "W4280556789",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35582947/",
+        "registration_year": 2012,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02692716",
+        "work_id": "W4280556789",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35582947/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W3176374233",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34153269/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01730534",
+        "work_id": "W4286001562",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35857296/",
+        "registration_year": 2012,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5048081580",
+        "name": "Luis‐Emilio García‐Pérez"
+      },
+      {
+        "author_id": "A5102952426",
+        "name": "Gilles R. Dagenais"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.11402371215229547,
+    "prob_lo": 0.05768856501853344,
+    "prob_hi": 0.19210421220324528,
+    "rank": 14,
+    "communities": [
+      21,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+8.37; degree_min=-7.94; adamic_adar=-7.11; common_neighbors=+6.42; resource_alloc=+3.68",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5048081580": [
+        {
+          "work_id": "W3036438870",
+          "year": 2020,
+          "title": "Effect of dulaglutide on cognitive impairment in type 2 diabetes: an exploratory analysis of the REWIND trial",
+          "url": "https://openalex.org/W3036438870",
+          "doi": "10.1016/s1474-4422(20)30173-3"
+        },
+        {
+          "work_id": "W2946367335",
+          "year": 2019,
+          "title": "Timing of GLP-1 Receptor Agonist Initiation for Treatment of Type 2 Diabetes in the UK",
+          "url": "https://openalex.org/W2946367335",
+          "doi": "10.1007/s40268-019-0273-0"
+        },
+        {
+          "work_id": "W2742082188",
+          "year": 2017,
+          "title": "Medication adherence and improved outcomes among patients with type 2 diabetes.",
+          "url": "https://openalex.org/W2742082188",
+          "doi": NaN
+        },
+        {
+          "work_id": "W2513267836",
+          "year": 2016,
+          "title": "Associations between adherence and outcomes among older, type 2 diabetes patients: evidence from a Medicare Supplemental database",
+          "url": "https://openalex.org/W2513267836",
+          "doi": "10.2147/ppa.s107543"
+        },
+        {
+          "work_id": "W2487018113",
+          "year": 2016,
+          "title": "Dulaglutide in the treatment of adult type 2 diabetes: a perspective for primary care providers",
+          "url": "https://openalex.org/W2487018113",
+          "doi": "10.1080/00325481.2016.1218260"
+        }
+      ],
+      "A5102952426": [
+        {
+          "work_id": "W3176374233",
+          "year": 2021,
+          "title": "Erectile function in men with type 2 diabetes treated with dulaglutide: an exploratory analysis of the REWIND placebo-controlled randomised trial",
+          "url": "https://openalex.org/W3176374233",
+          "doi": "10.1016/s2213-8587(21)00115-7"
+        },
+        {
+          "work_id": "W2948612418",
+          "year": 2019,
+          "title": "Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",
+          "url": "https://openalex.org/W2948612418",
+          "doi": "10.1016/s0140-6736(19)31149-3"
+        },
+        {
+          "work_id": "W2948519518",
+          "year": 2019,
+          "title": "Dulaglutide and renal outcomes in type 2 diabetes: an exploratory analysis of the REWIND randomised, placebo-controlled trial",
+          "url": "https://openalex.org/W2948519518",
+          "doi": "10.1016/s0140-6736(19)31150-x"
+        },
+        {
+          "work_id": "W2004315330",
+          "year": 2010,
+          "title": "Anthropometric measures and glucose levels in a large multi-ethnic cohort of individuals at risk of developing type 2 diabetes",
+          "url": "https://openalex.org/W2004315330",
+          "doi": "10.1007/s00125-010-1710-3"
+        },
+        {
+          "work_id": "W1993083067",
+          "year": 2009,
+          "title": "Comparison of prognosis for men with type 2 diabetes mellitus and men with cardiovascular disease",
+          "url": "https://openalex.org/W1993083067",
+          "doi": "10.1503/cmaj.071027"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5005414020",
+        "name": "Helen Martina Colhoun"
+      },
+      {
+        "author_id": "A5005906845",
+        "name": "Fernando Tomas Lanas"
+      },
+      {
+        "author_id": "A5006628692",
+        "name": "William C. Cushman"
+      },
+      {
+        "author_id": "A5013408607",
+        "name": "Rafael Díaz"
+      },
+      {
+        "author_id": "A5024475260",
+        "name": "Jonathan E. Shaw"
+      },
+      {
+        "author_id": "A5024577116",
+        "name": "Hertzel C. Gerstein"
+      },
+      {
+        "author_id": "A5026568725",
+        "name": "Patricio A López-Jaramillo"
+      },
+      {
+        "author_id": "A5030909625",
+        "name": "Edward Franek"
+      },
+      {
+        "author_id": "A5031812511",
+        "name": "Wayne Huey‐Herng Sheu"
+      },
+      {
+        "author_id": "A5038086852",
+        "name": "Peter Johann Raubenheimer"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W3036438870",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/32562683/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W2948612418",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/31189511/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W2948519518",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/31189509/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W3176374233",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34153269/",
+        "registration_year": 2011,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5022023562",
+        "name": "Gaurav Singh Gulsin"
+      },
+      {
+        "author_id": "A5058040415",
+        "name": "Hui Xue"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.11077201001125749,
+    "prob_lo": 0.0735980284566046,
+    "prob_hi": 0.1565027310402667,
+    "rank": 15,
+    "communities": [
+      0,
+      24
+    ],
+    "top_feature_contributions": "degree_min=-7.39; pref_attach=+6.83; adamic_adar=-5.80; common_neighbors=+5.47; resource_alloc=+3.19",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5022023562": [
+        {
+          "work_id": "W4220900190",
+          "year": 2022,
+          "title": "Age at diagnosis of type 2 diabetes and cardiovascular risk factor profile: A pooled analysis",
+          "url": "https://openalex.org/W4220900190",
+          "doi": "10.4239/wjd.v13.i3.260"
+        },
+        {
+          "work_id": "W4283813688",
+          "year": 2022,
+          "title": "Validation of AI-assisted method of liver fat measurement in adults with type 2 diabetes",
+          "url": "https://openalex.org/W4283813688",
+          "doi": "10.1016/s0168-8278(22)01160-6"
+        },
+        {
+          "work_id": "W3042344365",
+          "year": 2020,
+          "title": "Cardiovascular Determinants of Aerobic Exercise Capacity in Adults With Type 2 Diabetes",
+          "url": "https://openalex.org/W3042344365",
+          "doi": "10.2337/dc20-0706"
+        },
+        {
+          "work_id": "W3109610392",
+          "year": 2020,
+          "title": "Cardiovascular determinants of exercise capacity in people with type 2 diabetes",
+          "url": "https://openalex.org/W3109610392",
+          "doi": "10.1093/ehjci/ehaa946.3049"
+        },
+        {
+          "work_id": "W2888175460",
+          "year": 2018,
+          "title": "Physical activity and structured exercise in patients with type 2 diabetes mellitus and heart failure",
+          "url": "https://openalex.org/W2888175460",
+          "doi": "10.1002/pdi.2180"
+        }
+      ],
+      "A5058040415": [
+        {
+          "work_id": "W4306319855",
+          "year": 2022,
+          "title": "Body mass index associated differences in cardiac stress energetics in type 2 diabetes",
+          "url": "https://openalex.org/W4306319855",
+          "doi": "10.1093/eurheartj/ehac544.280"
+        },
+        {
+          "work_id": "W4221025299",
+          "year": 2022,
+          "title": "Coronary microvascular function and visceral adiposity in patients with normal body weight and type 2 diabetes",
+          "url": "https://openalex.org/W4221025299",
+          "doi": "10.1002/oby.23413"
+        },
+        {
+          "work_id": "W3184608587",
+          "year": 2021,
+          "title": "Clinical associations with stage B heart failure in adults with type 2 diabetes",
+          "url": "https://openalex.org/W3184608587",
+          "doi": "10.1177/20420188211030144"
+        },
+        {
+          "work_id": "W3205467029",
+          "year": 2021,
+          "title": "Coronary microvascular dysfunction is only detectable in type 2 diabetes in the presence of obesity",
+          "url": "https://openalex.org/W3205467029",
+          "doi": "10.1093/eurheartj/ehab724.0237"
+        },
+        {
+          "work_id": "W3203350643",
+          "year": 2021,
+          "title": "Empagliflozin Treatment Is Associated With Improvements in Cardiac Energetics and Function and Reductions in Myocardial Cellular Volume in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W3203350643",
+          "doi": "10.2337/db21-0270"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Cardiovascular Function and Risk Factors",
+      "Diabetes Treatment and Management",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5003285357",
+        "name": "Emma G. Wilmot"
+      },
+      {
+        "author_id": "A5012112944",
+        "name": "Eylem Levelt"
+      },
+      {
+        "author_id": "A5019338538",
+        "name": "Peter Kellman"
+      },
+      {
+        "author_id": "A5027073118",
+        "name": "Gerry Patrick McCann"
+      },
+      {
+        "author_id": "A5029533661",
+        "name": "John D. Biglands"
+      },
+      {
+        "author_id": "A5042443875",
+        "name": "Zin Zin Htike"
+      },
+      {
+        "author_id": "A5045843829",
+        "name": "Emer M. Brady"
+      },
+      {
+        "author_id": "A5051363076",
+        "name": "Thomas E. Yates"
+      },
+      {
+        "author_id": "A5068804442",
+        "name": "David R. Webb"
+      },
+      {
+        "author_id": "A5083222970",
+        "name": "Kamlesh K. Khunti"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5048027389",
+        "name": "Guntram Schernthaner"
+      },
+      {
+        "author_id": "A5080414941",
+        "name": "Lawrence A. Leiter"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.10719039998434458,
+    "prob_lo": 0.06058816429252233,
+    "prob_hi": 0.16896603497171703,
+    "rank": 16,
+    "communities": [
+      21,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+30.47; degree_min=-18.00; degree_max=-14.16; adamic_adar=-7.98; common_neighbors=+7.17",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5048027389": [
+        {
+          "work_id": "W4210847638",
+          "year": 2022,
+          "title": "Metformin and the heart: Update on mechanisms of cardiovascular protection with special reference to comorbid type 2 diabetes and heart failure",
+          "url": "https://openalex.org/W4210847638",
+          "doi": "10.1016/j.metabol.2022.155160"
+        },
+        {
+          "work_id": "W3140874570",
+          "year": 2021,
+          "title": "Can glucose-lowering drugs affect the prognosis of COVID-19 in patients with type 2 diabetes?",
+          "url": "https://openalex.org/W3140874570",
+          "doi": "10.1016/s2213-8587(21)00059-0"
+        },
+        {
+          "work_id": "W3207290141",
+          "year": 2021,
+          "title": "Finerenone in Predominantly Advanced CKD and Type 2 Diabetes With or Without Sodium-Glucose Cotransporter-2 Inhibitor Therapy",
+          "url": "https://openalex.org/W3207290141",
+          "doi": "10.1016/j.ekir.2021.10.008"
+        },
+        {
+          "work_id": "W3202306089",
+          "year": 2021,
+          "title": "The management of type 2 diabetes before, during and after Covid-19 infection: what is the evidence?",
+          "url": "https://openalex.org/W3202306089",
+          "doi": "10.1186/s12933-021-01389-1"
+        },
+        {
+          "work_id": "W3093773039",
+          "year": 2020,
+          "title": "Worldwide inertia to the use of cardiorenal protective glucose-lowering drugs (SGLT2i and GLP-1 RA) in high-risk patients with type 2 diabetes",
+          "url": "https://openalex.org/W3093773039",
+          "doi": "10.1186/s12933-020-01154-w"
+        }
+      ],
+      "A5080414941": [
+        {
+          "work_id": "W4280556789",
+          "year": 2022,
+          "title": "Effects of Semaglutide on Stroke Subtypes in Type 2 Diabetes: Post Hoc Analysis of the Randomized SUSTAIN 6 and PIONEER 6",
+          "url": "https://openalex.org/W4280556789",
+          "doi": "10.1161/strokeaha.121.037775"
+        },
+        {
+          "work_id": "W4286001562",
+          "year": 2022,
+          "title": "Efficacy and Safety of Dapagliflozin According to Background Use of Cardiovascular Medications in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4286001562",
+          "doi": "10.1001/jamacardio.2022.2006"
+        },
+        {
+          "work_id": "W3176403805",
+          "year": 2021,
+          "title": "Effect of Sotagliflozin on Total Hospitalizations in Patients With Type 2 Diabetes and Worsening Heart Failure",
+          "url": "https://openalex.org/W3176403805",
+          "doi": "10.7326/m21-0651"
+        },
+        {
+          "work_id": "W3120992799",
+          "year": 2021,
+          "title": "Empagliflozin Reduces Myocardial Extracellular Volume in Patients With Type 2 Diabetes and Coronary Artery Disease",
+          "url": "https://openalex.org/W3120992799",
+          "doi": "10.1016/j.jcmg.2020.10.017"
+        },
+        {
+          "work_id": "W3176374233",
+          "year": 2021,
+          "title": "Erectile function in men with type 2 diabetes treated with dulaglutide: an exploratory analysis of the REWIND placebo-controlled randomised trial",
+          "url": "https://openalex.org/W3176374233",
+          "doi": "10.1016/s2213-8587(21)00115-7"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Cardiovascular Function and Risk Factors",
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5002858323",
+        "name": "William J. Canovatchel"
+      },
+      {
+        "author_id": "A5005006476",
+        "name": "Silvio E. Inzucchi"
+      },
+      {
+        "author_id": "A5019247471",
+        "name": "Stephan Matthaei"
+      },
+      {
+        "author_id": "A5019711625",
+        "name": "Stefano Del Prato"
+      },
+      {
+        "author_id": "A5030291239",
+        "name": "Derek LeRoith"
+      },
+      {
+        "author_id": "A5031812511",
+        "name": "Wayne Huey‐Herng Sheu"
+      },
+      {
+        "author_id": "A5031933657",
+        "name": "Clifford J. Bailey"
+      },
+      {
+        "author_id": "A5033368647",
+        "name": "Christoph Wanner"
+      },
+      {
+        "author_id": "A5040182038",
+        "name": "John B. Buse"
+      },
+      {
+        "author_id": "A5042843111",
+        "name": "Bertram Pitt"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT03521934",
+        "work_id": "W3176403805",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34152828/",
+        "registration_year": 2018,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02998970",
+        "work_id": "W3120992799",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33454272/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W3207290141",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35005312/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01720446",
+        "work_id": "W4280556789",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35582947/",
+        "registration_year": 2012,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02692716",
+        "work_id": "W4280556789",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35582947/",
+        "registration_year": 2016,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W3176374233",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34153269/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01730534",
+        "work_id": "W4286001562",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35857296/",
+        "registration_year": 2012,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5073517018",
+        "name": "Itamar Raz"
+      },
+      {
+        "author_id": "A5089305017",
+        "name": "Rajiv Agarwal"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.1067640244933322,
+    "prob_lo": 0.06323293721635753,
+    "prob_hi": 0.16328973353534074,
+    "rank": 17,
+    "communities": [
+      0,
+      9
+    ],
+    "top_feature_contributions": "pref_attach=+25.03; degree_min=-15.63; degree_max=-10.65; common_neighbors=+5.63; adamic_adar=-5.10",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5073517018": [
+        {
+          "work_id": "W4220907151",
+          "year": 2022,
+          "title": "ASSESSMENT OF ATHEROTHROMBOTIC RISK IN PATIENTS WITH TYPE 2 DIABETES MELLITUS",
+          "url": "https://openalex.org/W4220907151",
+          "doi": "10.1016/s0735-1097(22)01953-2"
+        },
+        {
+          "work_id": "W4286001562",
+          "year": 2022,
+          "title": "Efficacy and Safety of Dapagliflozin According to Background Use of Cardiovascular Medications in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4286001562",
+          "doi": "10.1001/jamacardio.2022.2006"
+        },
+        {
+          "work_id": "W3165578170",
+          "year": 2021,
+          "title": "Adolescent Thyroid Disorders and Risk for Type 2 Diabetes in Young Adulthood",
+          "url": "https://openalex.org/W3165578170",
+          "doi": "10.1210/clinem/dgab382"
+        },
+        {
+          "work_id": "W3203821354",
+          "year": 2021,
+          "title": "Adolescent cognitive function and incident early-onset type 2 diabetes",
+          "url": "https://openalex.org/W3203821354",
+          "doi": "10.1016/j.eclinm.2021.101138"
+        },
+        {
+          "work_id": "W3118994355",
+          "year": 2021,
+          "title": "Changes in Albuminuria Predict Cardiovascular and Renal Outcomes in Type 2 Diabetes: A Post Hoc Analysis of the LEADER Trial",
+          "url": "https://openalex.org/W3118994355",
+          "doi": "10.2337/dc20-1622"
+        }
+      ],
+      "A5089305017": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        },
+        {
+          "work_id": "W4306632750",
+          "year": 2022,
+          "title": "Finerenone efficacy in patients with chronic kidney disease, type 2 diabetes and atherosclerotic cardiovascular disease",
+          "url": "https://openalex.org/W4306632750",
+          "doi": "10.1093/ehjcvp/pvac054"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Chronic Kidney Disease and Diabetes",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5016452405",
+        "name": "Tom Greene"
+      },
+      {
+        "author_id": "A5017731236",
+        "name": "Jennifer B. Green"
+      },
+      {
+        "author_id": "A5031624913",
+        "name": "Hiddo J.L. Heerspink"
+      },
+      {
+        "author_id": "A5043842967",
+        "name": "Johannes F.E. Mann"
+      },
+      {
+        "author_id": "A5045489578",
+        "name": "Julio Rosenstock"
+      },
+      {
+        "author_id": "A5045497276",
+        "name": "Dick de Zeeuw"
+      },
+      {
+        "author_id": "A5048027389",
+        "name": "Guntram Schernthaner"
+      },
+      {
+        "author_id": "A5071945904",
+        "name": "Darren K. McGuire"
+      },
+      {
+        "author_id": "A5085592050",
+        "name": "Peter R Rossing"
+      },
+      {
+        "author_id": "A5089847244",
+        "name": "Ele Ferrannini"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01179048",
+        "work_id": "W3118994355",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/33504496/",
+        "registration_year": 2010,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02545049",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01730534",
+        "work_id": "W4286001562",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35857296/",
+        "registration_year": 2012,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5003943960",
+        "name": "Stefan D. Anker"
+      },
+      {
+        "author_id": "A5102750154",
+        "name": "Jeffrey S. Riesmeyer"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.09547123972717247,
+    "prob_lo": 0.06172649652412427,
+    "prob_hi": 0.13772649137526044,
+    "rank": 18,
+    "communities": [
+      9,
+      26
+    ],
+    "top_feature_contributions": "pref_attach=+13.38; degree_min=-6.99; degree_max=-6.74; common_neighbors=+3.34; adamic_adar=-2.19",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5003943960": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        },
+        {
+          "work_id": "W4221032209",
+          "year": 2022,
+          "title": "Empagliflozin in patients with type 2 diabetes mellitus and chronic obstructive pulmonary disease",
+          "url": "https://openalex.org/W4221032209",
+          "doi": "10.1016/j.diabres.2022.109837"
+        },
+        {
+          "work_id": "W4306632750",
+          "year": 2022,
+          "title": "Finerenone efficacy in patients with chronic kidney disease, type 2 diabetes and atherosclerotic cardiovascular disease",
+          "url": "https://openalex.org/W4306632750",
+          "doi": "10.1093/ehjcvp/pvac054"
+        }
+      ],
+      "A5102750154": [
+        {
+          "work_id": "W4293105544",
+          "year": 2022,
+          "title": "Transitioning to active-controlled trials to evaluate cardiovascular safety and efficacy of medications for type 2 diabetes",
+          "url": "https://openalex.org/W4293105544",
+          "doi": "10.1186/s12933-022-01601-w"
+        },
+        {
+          "work_id": "W3205201678",
+          "year": 2021,
+          "title": "Tirzepatide versus insulin glargine in type 2 diabetes and increased cardiovascular risk (SURPASS-4): a randomised, open-label, parallel-group, multicentre, phase 3 trial",
+          "url": "https://openalex.org/W3205201678",
+          "doi": "10.1016/s0140-6736(21)02188-7"
+        },
+        {
+          "work_id": "W3004095885",
+          "year": 2020,
+          "title": "Impact of Regulatory Guidance on Evaluating Cardiovascular Risk of New Glucose-Lowering Therapies to Treat Type 2 Diabetes Mellitus",
+          "url": "https://openalex.org/W3004095885",
+          "doi": "10.1161/circulationaha.119.041022"
+        },
+        {
+          "work_id": "W2948612418",
+          "year": 2019,
+          "title": "Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",
+          "url": "https://openalex.org/W2948612418",
+          "doi": "10.1016/s0140-6736(19)31149-3"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Treatment and Management",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5024577116",
+        "name": "Hertzel C. Gerstein"
+      },
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5055849986",
+        "name": "Stephen James Nicholls"
+      },
+      {
+        "author_id": "A5071945904",
+        "name": "Darren K. McGuire"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT01394952",
+        "work_id": "W2948612418",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/31189511/",
+        "registration_year": 2011,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02545049",
+        "work_id": "W4306632750",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36251465/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT03730662",
+        "work_id": "W3205201678",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/34672967/",
+        "registration_year": 2018,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5013839934",
+        "name": "Andreas L. Birkenfeld"
+      },
+      {
+        "author_id": "A5083222970",
+        "name": "Kamlesh K. Khunti"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.09374707702938026,
+    "prob_lo": 0.05910851340251234,
+    "prob_hi": 0.13766291612975465,
+    "rank": 19,
+    "communities": [
+      4,
+      0
+    ],
+    "top_feature_contributions": "pref_attach=+31.26; degree_min=-18.10; degree_max=-14.92; common_neighbors=+4.65; adamic_adar=-3.97",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5013839934": [
+        {
+          "work_id": "W4283162182",
+          "year": 2022,
+          "title": "Fat Distribution Patterns and Future Type 2 Diabetes",
+          "url": "https://openalex.org/W4283162182",
+          "doi": "10.2337/db22-0315"
+        },
+        {
+          "work_id": "W4292063341",
+          "year": 2022,
+          "title": "Finerenone in Patients With Chronic Kidney Disease and Type 2 Diabetes by Sodium–Glucose Cotransporter 2 Inhibitor Treatment: The FIDELITY Analysis",
+          "url": "https://openalex.org/W4292063341",
+          "doi": "10.2337/dc22-0294"
+        },
+        {
+          "work_id": "W4285589434",
+          "year": 2022,
+          "title": "Therapy of Type 2 Diabetes",
+          "url": "https://openalex.org/W4285589434",
+          "doi": "10.1055/a-1624-3449"
+        },
+        {
+          "work_id": "W7212328299",
+          "year": 2022,
+          "title": "Therapy of Type 2 Diabetes",
+          "url": "https://openalex.org/W7212328299",
+          "doi": NaN
+        },
+        {
+          "work_id": "W3213389536",
+          "year": 2021,
+          "title": "Elevated circulating follistatin associates with an increased risk of type 2 diabetes",
+          "url": "https://openalex.org/W3213389536",
+          "doi": "10.1038/s41467-021-26536-w"
+        }
+      ],
+      "A5083222970": [
+        {
+          "work_id": "W4311182596",
+          "year": 2022,
+          "title": "8. Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes: Standards of Care in Diabetes—2023",
+          "url": "https://openalex.org/W4311182596",
+          "doi": "10.2337/dc23-s008"
+        },
+        {
+          "work_id": "W4220900190",
+          "year": 2022,
+          "title": "Age at diagnosis of type 2 diabetes and cardiovascular risk factor profile: A pooled analysis",
+          "url": "https://openalex.org/W4220900190",
+          "doi": "10.4239/wjd.v13.i3.260"
+        },
+        {
+          "work_id": "W4288447618",
+          "year": 2022,
+          "title": "Developing services to support the delivery of care to people with early‐onset type 2 diabetes",
+          "url": "https://openalex.org/W4288447618",
+          "doi": "10.1111/dme.14927"
+        },
+        {
+          "work_id": "W4220970001",
+          "year": 2022,
+          "title": "Expert Panel Guidance and Narrative Review of Treatment Simplification of Complex Insulin Regimens to Improve Outcomes in Type 2 Diabetes",
+          "url": "https://openalex.org/W4220970001",
+          "doi": "10.1007/s13300-022-01222-2"
+        },
+        {
+          "work_id": "W4224443498",
+          "year": 2022,
+          "title": "Global use of SGLT2 inhibitors and GLP-1 receptor agonists in type 2 diabetes. Results from DISCOVER",
+          "url": "https://openalex.org/W4224443498",
+          "doi": "10.1186/s12902-022-01026-2"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004120950",
+        "name": "Tina Vilsbøll"
+      },
+      {
+        "author_id": "A5011314920",
+        "name": "Cees J. Tack"
+      },
+      {
+        "author_id": "A5043895658",
+        "name": "Hirotaka Watada"
+      },
+      {
+        "author_id": "A5067796093",
+        "name": "Oliver Kuß"
+      },
+      {
+        "author_id": "A5072495681",
+        "name": "Ádám Gyula Tabák"
+      },
+      {
+        "author_id": "A5084593004",
+        "name": "Melanie Jane Davies"
+      },
+      {
+        "author_id": "A5086169556",
+        "name": "William H. Polonsky"
+      },
+      {
+        "author_id": "A5105783630",
+        "name": "Baptist Gallwitz"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5013042075",
+        "name": "Alaa Ahmed Alsharif"
+      },
+      {
+        "author_id": "A5043075532",
+        "name": "Gary Tse"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.09334291520574936,
+    "prob_lo": 0.03212737313749316,
+    "prob_hi": 0.193585652250959,
+    "rank": 20,
+    "communities": [
+      11,
+      65
+    ],
+    "top_feature_contributions": "adamic_adar=-5.94; resource_alloc=+5.57; degree_max=+5.29; common_neighbors=+4.88; pref_attach=-3.09",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5013042075": [
+        {
+          "work_id": "W3094606219",
+          "year": 2020,
+          "title": "Incidence and prevalence of hypoglycaemia in type 1 and type 2 diabetes individuals: A systematic review and meta-analysis",
+          "url": "https://openalex.org/W3094606219",
+          "doi": "10.1016/j.diabres.2020.108522"
+        }
+      ],
+      "A5043075532": [
+        {
+          "work_id": "W3024500389",
+          "year": 2020,
+          "title": "Trends in oral anticoagulant prescribing in individuals with type 2 diabetes mellitus: a population-based study in the UK",
+          "url": "https://openalex.org/W3024500389",
+          "doi": "10.1136/bmjopen-2019-034573"
+        },
+        {
+          "work_id": "W2914643187",
+          "year": 2019,
+          "title": "High-Intensity Interval Training in Patients with Type 2 Diabetes Mellitus: a Systematic Review",
+          "url": "https://openalex.org/W2914643187",
+          "doi": "10.1007/s11883-019-0767-9"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5024051019",
+        "name": "Jenni Ilomäki"
+      },
+      {
+        "author_id": "A5028633730",
+        "name": "Kenneth K. C. Man"
+      },
+      {
+        "author_id": "A5041805674",
+        "name": "Gang Fang"
+      },
+      {
+        "author_id": "A5048848026",
+        "name": "Pajaree Mongkhon"
+      },
+      {
+        "author_id": "A5053772815",
+        "name": "Hassan H Alwafi"
+      },
+      {
+        "author_id": "A5063428081",
+        "name": "J. Simon Bell"
+      },
+      {
+        "author_id": "A5079729727",
+        "name": "Ian Chi Kei Wong"
+      },
+      {
+        "author_id": "A5089979499",
+        "name": "Abdallah Y. Naser"
+      },
+      {
+        "author_id": "A5100750830",
+        "name": "Li Wei"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5014467923",
+        "name": "Ken K. Ong"
+      },
+      {
+        "author_id": "A5017309256",
+        "name": "Raymond Noordam"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.08995300885734517,
+    "prob_lo": 0.05131369473544761,
+    "prob_hi": 0.14133248533649476,
+    "rank": 21,
+    "communities": [
+      4,
+      14
+    ],
+    "top_feature_contributions": "pref_attach=+16.82; degree_min=-10.24; degree_max=-7.16; adamic_adar=-6.73; common_neighbors=+6.31",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5014467923": [
+        {
+          "work_id": "W4308444939",
+          "year": 2022,
+          "title": "Damaging missense variants in IGF1R implicate a role for IGF-1 resistance in the etiology of type 2 diabetes",
+          "url": "https://openalex.org/W4308444939",
+          "doi": "10.1016/j.xgen.2022.100208"
+        },
+        {
+          "work_id": "W4229046691",
+          "year": 2022,
+          "title": "Epigenome-wide association study of incident type 2 diabetes: a meta-analysis of five prospective European cohorts",
+          "url": "https://openalex.org/W4229046691",
+          "doi": "10.1007/s00125-022-05652-2"
+        },
+        {
+          "work_id": "W2964406805",
+          "year": 2020,
+          "title": "Association of puberty timing with type 2 diabetes: A systematic review and meta-analysis",
+          "url": "https://openalex.org/W2964406805",
+          "doi": "10.1371/journal.pmed.1003017"
+        },
+        {
+          "work_id": "W3113772690",
+          "year": 2020,
+          "title": "GLP‐1 agonists for obesity and type 2 diabetes in children: Systematic review and meta‐analysis",
+          "url": "https://openalex.org/W3113772690",
+          "doi": "10.1111/obr.13177"
+        },
+        {
+          "work_id": "W2972630199",
+          "year": 2019,
+          "title": "Epigenome-Wide Association Study of Incident Type 2 Diabetes in a British Population: EPIC-Norfolk Study",
+          "url": "https://openalex.org/W2972630199",
+          "doi": "10.2337/db18-0290"
+        }
+      ],
+      "A5017309256": [
+        {
+          "work_id": "W4280552086",
+          "year": 2022,
+          "title": "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation",
+          "url": "https://openalex.org/W4280552086",
+          "doi": "10.1038/s41588-022-01058-3"
+        },
+        {
+          "work_id": "W7213660894",
+          "year": 2022,
+          "title": "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation",
+          "url": "https://openalex.org/W7213660894",
+          "doi": "10.1038/s41588-022-01058-3"
+        },
+        {
+          "work_id": "W4210360628",
+          "year": 2022,
+          "title": "Type 2 Diabetes Partitioned Polygenic Scores Associate With Disease Outcomes in 454,193 Individuals Across 13 Cohorts",
+          "url": "https://openalex.org/W4210360628",
+          "doi": "10.2337/dc21-1395"
+        },
+        {
+          "work_id": "W3022341458",
+          "year": 2020,
+          "title": "Smoking-by-genotype interaction in type 2 diabetes risk and fasting glucose",
+          "url": "https://openalex.org/W3022341458",
+          "doi": "10.1371/journal.pone.0230815"
+        },
+        {
+          "work_id": "W2974488063",
+          "year": 2019,
+          "title": "Association of Birth Weight With Type 2 Diabetes and Glycemic Traits",
+          "url": "https://openalex.org/W2974488063",
+          "doi": "10.1001/jamanetworkopen.2019.10915"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Birth, Development, and Health",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Genetic Associations and Epidemiology"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5003718905",
+        "name": "Delilah Zabaneh"
+      },
+      {
+        "author_id": "A5019598915",
+        "name": "Stela McLachlan"
+      },
+      {
+        "author_id": "A5021988687",
+        "name": "Jorgen Engmann"
+      },
+      {
+        "author_id": "A5023697713",
+        "name": "Diana J. Kuh"
+      },
+      {
+        "author_id": "A5024991056",
+        "name": "Richard William Morris"
+      },
+      {
+        "author_id": "A5026743197",
+        "name": "Frank Dudbridge"
+      },
+      {
+        "author_id": "A5030837922",
+        "name": "Mika Kivimaki B"
+      },
+      {
+        "author_id": "A5033105206",
+        "name": "Caroline E Dale"
+      },
+      {
+        "author_id": "A5036589831",
+        "name": "Tom R. Gaunt"
+      },
+      {
+        "author_id": "A5046617667",
+        "name": "Yoav Ben‐Shlomo"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5028705245",
+        "name": "Shivani Misra"
+      },
+      {
+        "author_id": "A5078498803",
+        "name": "Naveed A. Sattar"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.08869230448216346,
+    "prob_lo": 0.05784577255464909,
+    "prob_hi": 0.1272428105299815,
+    "rank": 22,
+    "communities": [
+      0,
+      13
+    ],
+    "top_feature_contributions": "pref_attach=+15.44; degree_max=-15.03; common_neighbors=+4.38; adamic_adar=-4.18; papers_total_max=-2.56",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5028705245": [
+        {
+          "work_id": "W4292646864",
+          "year": 2022,
+          "title": "Characteristics and care of young people with type 2 diabetes included in the national diabetes audit datasets for England",
+          "url": "https://openalex.org/W4292646864",
+          "doi": "10.1111/dme.14940"
+        },
+        {
+          "work_id": "W4288447618",
+          "year": 2022,
+          "title": "Developing services to support the delivery of care to people with early‐onset type 2 diabetes",
+          "url": "https://openalex.org/W4288447618",
+          "doi": "10.1111/dme.14927"
+        },
+        {
+          "work_id": "W4280582160",
+          "year": 2022,
+          "title": "Extending precision medicine tools to populations at high risk of type 2 diabetes",
+          "url": "https://openalex.org/W4280582160",
+          "doi": "10.1371/journal.pmed.1003989"
+        }
+      ],
+      "A5078498803": [
+        {
+          "work_id": "W4220699502",
+          "year": 2022,
+          "title": "Body mass index in adolescence, risk of type 2 diabetes and associated complications: A nationwide cohort study of men",
+          "url": "https://openalex.org/W4220699502",
+          "doi": "10.1016/j.eclinm.2022.101356"
+        },
+        {
+          "work_id": "W4223645541",
+          "year": 2022,
+          "title": "Clinical cardiovascular phenotypes and the pattern of future events in patients with type 2 diabetes",
+          "url": "https://openalex.org/W4223645541",
+          "doi": "10.1007/s00392-022-02016-z"
+        },
+        {
+          "work_id": "W4311927977",
+          "year": 2022,
+          "title": "GLP-1 Receptor Agonists for the Reduction of Atherosclerotic Cardiovascular Risk in Patients With Type 2 Diabetes",
+          "url": "https://openalex.org/W4311927977",
+          "doi": "10.1161/circulationaha.122.059595"
+        },
+        {
+          "work_id": "W4221039283",
+          "year": 2022,
+          "title": "Incidence and Characteristics of Remission of Type 2 Diabetes in England: A Cohort Study Using the National Diabetes Audit",
+          "url": "https://openalex.org/W4221039283",
+          "doi": "10.2337/dc21-2136"
+        },
+        {
+          "work_id": "W4282014719",
+          "year": 2022,
+          "title": "Left-Sided Degenerative Valvular Heart Disease in Type 1 and Type 2 Diabetes",
+          "url": "https://openalex.org/W4282014719",
+          "doi": "10.1161/circulationaha.121.058072"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5017030033",
+        "name": "Jonathan Valabhji"
+      },
+      {
+        "author_id": "A5020857110",
+        "name": "Emma Barron"
+      },
+      {
+        "author_id": "A5055869240",
+        "name": "Bob Young"
+      },
+      {
+        "author_id": "A5062870643",
+        "name": "Peter Knighton"
+      },
+      {
+        "author_id": "A5073213528",
+        "name": "Naomi Holman"
+      },
+      {
+        "author_id": "A5083222970",
+        "name": "Kamlesh K. Khunti"
+      },
+      {
+        "author_id": "A5109984080",
+        "name": "Partha S. Kar"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5023436129",
+        "name": "Stuart Pocock"
+      },
+      {
+        "author_id": "A5101689627",
+        "name": "Andrew Cooper"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.085703890977266,
+    "prob_lo": 0.05664858086681498,
+    "prob_hi": 0.12181682717663198,
+    "rank": 23,
+    "communities": [
+      0,
+      5
+    ],
+    "top_feature_contributions": "pref_attach=+16.57; degree_min=-11.33; adamic_adar=-7.55; common_neighbors=+6.74; degree_max=-5.80",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5023436129": [
+        {
+          "work_id": "W4289005800",
+          "year": 2020,
+          "title": "Health-related quality of life in people with type 2 diabetes participating in the LEADER trial",
+          "url": "https://openalex.org/W4289005800",
+          "doi": "10.17615/5edj-5h41"
+        },
+        {
+          "work_id": "W4300062878",
+          "year": 2020,
+          "title": "Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes",
+          "url": "https://openalex.org/W4300062878",
+          "doi": "10.17615/5vsp-zn15"
+        },
+        {
+          "work_id": "W2948150824",
+          "year": 2019,
+          "title": "207-LB: Type 2 Diabetes and Heart Failure: Insights from the DISCOVER Study",
+          "url": "https://openalex.org/W2948150824",
+          "doi": "10.2337/db19-207-lb"
+        },
+        {
+          "work_id": "W2922745639",
+          "year": 2019,
+          "title": "Treatment of type 2 diabetes mellitus worldwide: Baseline patient characteristics in the global DISCOVER study",
+          "url": "https://openalex.org/W2922745639",
+          "doi": "10.1016/j.diabres.2019.03.024"
+        },
+        {
+          "work_id": "W2893097539",
+          "year": 2018,
+          "title": "Health‐related quality of life in people with type 2 diabetes participating in the LEADER trial",
+          "url": "https://openalex.org/W2893097539",
+          "doi": "10.1111/dom.13547"
+        }
+      ],
+      "A5101689627": [
+        {
+          "work_id": "W4224443498",
+          "year": 2022,
+          "title": "Global use of SGLT2 inhibitors and GLP-1 receptor agonists in type 2 diabetes. Results from DISCOVER",
+          "url": "https://openalex.org/W4224443498",
+          "doi": "10.1186/s12902-022-01026-2"
+        },
+        {
+          "work_id": "W4221085280",
+          "year": 2022,
+          "title": "Initiating second-line antidiabetic medication among older adults with type 2 diabetes on Metformin",
+          "url": "https://openalex.org/W4221085280",
+          "doi": "10.1186/s12877-022-02792-3"
+        },
+        {
+          "work_id": "W3128865142",
+          "year": 2021,
+          "title": "Type 2 Diabetes and Heart Failure: Insights from the Global DISCOVER Study",
+          "url": "https://openalex.org/W3128865142",
+          "doi": "10.1002/ehf2.13235"
+        },
+        {
+          "work_id": "W2905966229",
+          "year": 2018,
+          "title": "Association of Second-line Antidiabetic Medications With Cardiovascular Events Among Insured Adults With Type 2 Diabetes",
+          "url": "https://openalex.org/W2905966229",
+          "doi": "10.1001/jamanetworkopen.2018.6125"
+        },
+        {
+          "work_id": "W2751730132",
+          "year": 2017,
+          "title": "Correlates of second-line type 2 diabetes medication selection in the USA",
+          "url": "https://openalex.org/W2751730132",
+          "doi": "10.1136/bmjdrc-2017-000421"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Cardiovascular Function and Risk Factors",
+      "Diabetes Management and Research",
+      "Diabetes Treatment and Management",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Heart Failure Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5010127891",
+        "name": "Antonio Nicolucci"
+      },
+      {
+        "author_id": "A5021542554",
+        "name": "Wolfgang Rathmann"
+      },
+      {
+        "author_id": "A5025169113",
+        "name": "Bernard H. Charbonnel"
+      },
+      {
+        "author_id": "A5036864965",
+        "name": "Suzanne V. Arnold"
+      },
+      {
+        "author_id": "A5036949656",
+        "name": "Linong Ji"
+      },
+      {
+        "author_id": "A5037246488",
+        "name": "Iichiro Shimomura"
+      },
+      {
+        "author_id": "A5040976739",
+        "name": "Marina Vladimirovna Shestakova"
+      },
+      {
+        "author_id": "A5043895658",
+        "name": "Hirotaka Watada"
+      },
+      {
+        "author_id": "A5048863829",
+        "name": "Filip Surmont"
+      },
+      {
+        "author_id": "A5052329017",
+        "name": "Markolf Hanefeld E"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02322762",
+        "work_id": "W2922745639",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/30904743/",
+        "registration_year": 2014,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT02226822",
+        "work_id": "W2922745639",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/30904743/",
+        "registration_year": 2014,
+        "reviewed": false
+      }
+    ]
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5029268321",
+        "name": "Fiona Bragg"
+      },
+      {
+        "author_id": "A5076740728",
+        "name": "Tao Huang"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.08230522411330182,
+    "prob_lo": 0.0505865906181956,
+    "prob_hi": 0.12316807802657831,
+    "rank": 24,
+    "communities": [
+      8,
+      35
+    ],
+    "top_feature_contributions": "pref_attach=+10.77; degree_min=-6.34; adamic_adar=-5.35; common_neighbors=+5.09; degree_max=-4.60",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5029268321": [
+        {
+          "work_id": "W4280552086",
+          "year": 2022,
+          "title": "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation",
+          "url": "https://openalex.org/W4280552086",
+          "doi": "10.1038/s41588-022-01058-3"
+        },
+        {
+          "work_id": "W7213660894",
+          "year": 2022,
+          "title": "Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation",
+          "url": "https://openalex.org/W7213660894",
+          "doi": "10.1038/s41588-022-01058-3"
+        },
+        {
+          "work_id": "W4225304474",
+          "year": 2022,
+          "title": "Predictive value of circulating NMR metabolic biomarkers for type 2 diabetes risk in the UK Biobank study",
+          "url": "https://openalex.org/W4225304474",
+          "doi": "10.1186/s12916-022-02354-9"
+        },
+        {
+          "work_id": "W3111262124",
+          "year": 2021,
+          "title": "Blood pressure and cardiovascular diseases in Chinese adults with type 2 diabetes: A prospective cohort study",
+          "url": "https://openalex.org/W3111262124",
+          "doi": "10.1016/j.lanwpc.2020.100085"
+        },
+        {
+          "work_id": "W3212288232",
+          "year": 2021,
+          "title": "Circulating Metabolites and the Development of Type 2 Diabetes in Chinese Adults",
+          "url": "https://openalex.org/W3212288232",
+          "doi": "10.2337/dc21-1415"
+        }
+      ],
+      "A5076740728": [
+        {
+          "work_id": "W4213325753",
+          "year": 2022,
+          "title": "Association between type 2 diabetes and amyotrophic lateral sclerosis",
+          "url": "https://openalex.org/W4213325753",
+          "doi": "10.1038/s41598-022-06463-6"
+        },
+        {
+          "work_id": "W3127592899",
+          "year": 2021,
+          "title": "An Improved Genome-Wide Polygenic Score Model for Predicting the Risk of Type 2 Diabetes",
+          "url": "https://openalex.org/W3127592899",
+          "doi": "10.3389/fgene.2021.632385"
+        },
+        {
+          "work_id": "W4200128442",
+          "year": 2021,
+          "title": "Association of healthy lifestyle including a healthy sleep pattern with incident type 2 diabetes mellitus among individuals with hypertension",
+          "url": "https://openalex.org/W4200128442",
+          "doi": "10.1186/s12933-021-01434-z"
+        },
+        {
+          "work_id": "W3208708696",
+          "year": 2021,
+          "title": "Lifestyle factors and fetal and childhood origins of type 2 diabetes: a prospective study of Chinese and European adults",
+          "url": "https://openalex.org/W3208708696",
+          "doi": "10.1093/ajcn/nqab359"
+        },
+        {
+          "work_id": "W3201017791",
+          "year": 2021,
+          "title": "Overweight and risk of type 2 diabetes: A prospective Chinese twin study",
+          "url": "https://openalex.org/W3201017791",
+          "doi": "10.1016/j.diabet.2021.101278"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Blood Pressure and Hypertension Studies",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Genetic Associations and Epidemiology",
+      "Genetic Mapping and Diversity in Plants and Animals"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5014530652",
+        "name": "Ling Yang"
+      },
+      {
+        "author_id": "A5034779836",
+        "name": "Canqing Yu"
+      },
+      {
+        "author_id": "A5042642059",
+        "name": "Robert Clarke"
+      },
+      {
+        "author_id": "A5057853321",
+        "name": "Iona Y. Millwood"
+      },
+      {
+        "author_id": "A5067560843",
+        "name": "Jun Lv"
+      },
+      {
+        "author_id": "A5073518338",
+        "name": "Huaidong Du"
+      },
+      {
+        "author_id": "A5100374685",
+        "name": "Yiping Chen"
+      },
+      {
+        "author_id": "A5100429609",
+        "name": "Liming Li"
+      },
+      {
+        "author_id": "A5100619741",
+        "name": "Zhengming Chen"
+      },
+      {
+        "author_id": "A5120698293",
+        "name": "Pei Pei"
+      }
+    ],
+    "trial_evidence": []
+  },
+  {
+    "pair": [
+      {
+        "author_id": "A5085592050",
+        "name": "Peter R Rossing"
+      },
+      {
+        "author_id": "A5087431344",
+        "name": "Christian Tobias Torp-Pedersen"
+      }
+    ],
+    "cutoff_year": 2022,
+    "probability": 0.08218604498522489,
+    "prob_lo": 0.05849158552516008,
+    "prob_hi": 0.11061312053058442,
+    "rank": 25,
+    "communities": [
+      9,
+      10
+    ],
+    "top_feature_contributions": "pref_attach=+25.44; degree_min=-13.82; degree_max=-12.88; common_neighbors=+4.65; adamic_adar=-4.46",
+    "disclaimer": "Structurally disconnected candidate pair identified from public bibliographic data. This is a research-analysis output, not clinical decision support, and does not show that a collaboration would cause any medical benefit.",
+    "status": "ok",
+    "supporting_works": {
+      "A5085592050": [
+        {
+          "work_id": "W4307724692",
+          "year": 2022,
+          "title": "A prespecified exploratory analysis from FIDELITY examined finerenone use and kidney outcomes in patients with chronic kidney disease and type 2 diabetes",
+          "url": "https://openalex.org/W4307724692",
+          "doi": "10.1016/j.kint.2022.08.040"
+        },
+        {
+          "work_id": "W4305082733",
+          "year": 2022,
+          "title": "Blood Pressure and Cardiorenal Outcomes With Finerenone in Chronic Kidney Disease in Type 2 Diabetes",
+          "url": "https://openalex.org/W4305082733",
+          "doi": "10.1161/hypertensionaha.122.19744"
+        },
+        {
+          "work_id": "W4306901703",
+          "year": 2022,
+          "title": "Clinical implications and guidelines for CKD in type 2 diabetes",
+          "url": "https://openalex.org/W4306901703",
+          "doi": "10.1093/ndt/gfac285"
+        },
+        {
+          "work_id": "W4282925091",
+          "year": 2022,
+          "title": "Design of the COmbinatioN effect of FInerenone anD EmpaglifloziN in participants with chronic kidney disease and type 2 diabetes using a UACR Endpoint study (CONFIDENCE)",
+          "url": "https://openalex.org/W4282925091",
+          "doi": "10.1093/ndt/gfac198"
+        },
+        {
+          "work_id": "W4313365822",
+          "year": 2022,
+          "title": "Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes",
+          "url": "https://openalex.org/W4313365822",
+          "doi": "10.1097/hjh.0000000000003330"
+        }
+      ],
+      "A5087431344": [
+        {
+          "work_id": "W4223645541",
+          "year": 2022,
+          "title": "Clinical cardiovascular phenotypes and the pattern of future events in patients with type 2 diabetes",
+          "url": "https://openalex.org/W4223645541",
+          "doi": "10.1007/s00392-022-02016-z"
+        },
+        {
+          "work_id": "W4309977681",
+          "year": 2022,
+          "title": "Type 2 diabetes mellitus and higher rate of complete atrioventricular block: a Danish Nationwide Registry",
+          "url": "https://openalex.org/W4309977681",
+          "doi": "10.1093/eurheartj/ehac662"
+        },
+        {
+          "work_id": "W3174347638",
+          "year": 2021,
+          "title": "Cardiovascular outcomes with GLP-1 receptor agonists vs. SGLT-2 inhibitors in patients with type 2 diabetes",
+          "url": "https://openalex.org/W3174347638",
+          "doi": "10.1093/ehjcvp/pvab053"
+        },
+        {
+          "work_id": "W3038721408",
+          "year": 2020,
+          "title": "Add-on therapy in metformin-treated patients with type 2 diabetes at moderate cardiovascular risk: a nationwide study",
+          "url": "https://openalex.org/W3038721408",
+          "doi": "10.1186/s12933-020-01078-5"
+        },
+        {
+          "work_id": "W3023434061",
+          "year": 2020,
+          "title": "Endogenous Testosterone Levels Are Associated with Risk of Type 2 Diabetes in Women without Established Comorbidity",
+          "url": "https://openalex.org/W3023434061",
+          "doi": "10.1210/jendso/bvaa050"
+        }
+      ]
+    },
+    "shared_topics": [
+      "Diabetes Treatment and Management"
+    ],
+    "shared_collaborators": [
+      {
+        "author_id": "A5004120950",
+        "name": "Tina Vilsbøll"
+      },
+      {
+        "author_id": "A5010442325",
+        "name": "Adam Ali Ghotbi"
+      },
+      {
+        "author_id": "A5027213857",
+        "name": "John J.V. McMurray"
+      },
+      {
+        "author_id": "A5032789207",
+        "name": "Morten Schou"
+      },
+      {
+        "author_id": "A5053899216",
+        "name": "Caroline Kistorp"
+      },
+      {
+        "author_id": "A5072362865",
+        "name": "Jens Oscar Faber"
+      },
+      {
+        "author_id": "A5090437675",
+        "name": "Bernard Zinman"
+      },
+      {
+        "author_id": "A5090618779",
+        "name": "Morten Schou"
+      }
+    ],
+    "trial_evidence": [
+      {
+        "nct_id": "NCT02540993",
+        "work_id": "W4305082733",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36252131/",
+        "registration_year": 2015,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT01874431",
+        "work_id": "W4313365822",
+        "method": "pubmed_databank",
+        "confidence": 1.0,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/36583355/",
+        "registration_year": 2013,
+        "reviewed": false
+      },
+      {
+        "nct_id": "NCT05254002",
+        "work_id": "W4282925091",
+        "method": "abstract_nct_id",
+        "confidence": 0.95,
+        "evidence_uri": "https://pubmed.ncbi.nlm.nih.gov/35700142/",
+        "registration_year": 2022,
+        "reviewed": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "n_records": 50000,
+  "n_works": 45558,
+  "dropped_missing_id": 0,
+  "dropped_duplicates": 4442,
+  "dropped_missing_year": 0,
+  "date_year_mismatch": 0,
+  "authorships_missing_author_id": 11301,
+  "frac_works_with_abstract": 0.72022476842706,
+  "frac_works_with_topics": 0.9995829492076035,
+  "frac_works_with_pmid": 0.6406778172878529,
+  "n_links": 1141,
+  "n_dropped_unknown_trial": 374,
+  "n_pubmed_databank": 1089,
+  "n_abstract_nct_id": 52,
+  "n_authors": 126478,
+  "n_authorships": 230632,
+  "frac_authorships_with_institution": 0.8147264906864615,
+  "authors_per_work_median": 4.0,
+  "authors_per_work_p99": 21.0,
+  "works_with_over_50_authors": 102,
+  "n_trials": 8941,
+  "link_methods": {
+    "pubmed_databank": 1089,
+    "abstract_nct_id": 52
+  },
+  "top10_institution_share": 0.0645549275686262,
+  "top_country_shares": {
+    "US": 0.2086,
+    "CN": 0.1224,
+    "GB": 0.0657,
+    "JP": 0.0534,
+    "IT": 0.0434,
+    "IN": 0.0333,
+    "DE": 0.0325,
+    "AU": 0.0305,
+    "KR": 0.0302,
+    "NL": 0.0287
+  },
+  "per_year": [
+    {
+      "year": 2006,
+      "works": 1657,
+      "trials": 334,
+      "linked_works": 0
+    },
+    {
+      "year": 2007,
+      "works": 1869,
+      "trials": 402,
+      "linked_works": 9
+    },
+    {
+      "year": 2008,
+      "works": 2177,
+      "trials": 559,
+      "linked_works": 20
+    },
+    {
+      "year": 2009,
+      "works": 2248,
+      "trials": 549,
+      "linked_works": 30
+    },
+    {
+      "year": 2010,
+      "works": 2409,
+      "trials": 525,
+      "linked_works": 36
+    },
+    {
+      "year": 2011,
+      "works": 2556,
+      "trials": 560,
+      "linked_works": 42
+    },
+    {
+      "year": 2012,
+      "works": 2646,
+      "trials": 541,
+      "linked_works": 60
+    },
+    {
+      "year": 2013,
+      "works": 2933,
+      "trials": 542,
+      "linked_works": 82
+    },
+    {
+      "year": 2014,
+      "works": 2929,
+      "trials": 538,
+      "linked_works": 69
+    },
+    {
+      "year": 2015,
+      "works": 3077,
+      "trials": 498,
+      "linked_works": 69
+    },
+    {
+      "year": 2016,
+      "works": 3164,
+      "trials": 529,
+      "linked_works": 81
+    },
+    {
+      "year": 2017,
+      "works": 2876,
+      "trials": 518,
+      "linked_works": 66
+    },
+    {
+      "year": 2018,
+      "works": 3053,
+      "trials": 510,
+      "linked_works": 73
+    },
+    {
+      "year": 2019,
+      "works": 3218,
+      "trials": 560,
+      "linked_works": 88
+    },
+    {
+      "year": 2020,
+      "works": 3120,
+      "trials": 552,
+      "linked_works": 60
+    },
+    {
+      "year": 2021,
+      "works": 2969,
+      "trials": 605,
+      "linked_works": 71
+    },
+    {
+      "year": 2022,
+      "works": 2657,
+      "trials": 619,
+      "linked_works": 43
+    }
+  ],
+  "warnings": []
+}

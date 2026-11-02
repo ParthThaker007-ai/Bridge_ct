@@ -1,0 +1,64 @@
+# BRIDGE-CT master configuration.
+# Every year/threshold is a starting placeholder: finalise only after the data audit (Phase 0).
+project:
+  name: BRIDGE-CT
+  disease: "type 2 diabetes"
+  start_year: 2006
+  end_year: 2022
+  prediction_horizon_years: 3
+  random_seed: 42
+
+paths:
+  data_dir: data
+  artifacts_dir: artifacts
+
+sources:
+  openalex: true
+  pubmed: true
+  clinicaltrials: true
+  max_works: 50000            # set e.g. 5000 for a pilot run
+  work_types: ["article", "review"]
+
+graph:
+  collaboration_weight: fractional   # fractional | binary
+  community_algorithm: louvain       # louvain | leiden (leiden needs the optional extra)
+  community_resolution: 1.0
+  max_authors_per_paper: 50          # skip mega-author papers (combinatorial explosion, weak tie meaning)
+  min_community_size: 5
+  betweenness_samples: 200           # sampled betweenness (k pivots); null = exact
+
+semantic:
+  method: tfidf                      # tfidf | topics
+  tfidf_max_features: 5000
+
+candidates:
+  active_window_years: 3
+  top_authors_per_community: 15
+  neighbour_communities: 5
+  min_semantic_similarity: 0.05
+  two_hop_per_broker: 20
+  max_candidates_per_snapshot: 60000
+
+links:
+  min_confidence: 0.9                # only identifier-based links feed features/labels
+
+evaluation:
+  split_type: chronological
+  primary_metric: average_precision
+  top_k: [10, 50]
+  n_bootstrap: 300
+  cutoff_first: 2009
+  val_first: 2013
+  test_first: 2016
+  purge: true                        # drop training cutoffs whose label horizon reaches into the next phase
+  logistic_C_grid: [0.01, 0.1, 1.0, 10.0]
+  prior_scale_grid: [0.3, 1.0, 3.0]
+  shortlist_size: 200
+
+simulation:
+  k_edges: 20
+  n_replicates: 30
+  ic_probability: 0.1
+  n_seed_nodes: 10
+  n_cascades: 30
+  max_nodes: 20000                   # simulate on the giant-component subgraph, capped
